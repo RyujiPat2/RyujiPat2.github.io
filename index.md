@@ -38,8 +38,9 @@ The workshop will consist of invited talks by experts in various aspects of quan
 * **Robert Raussendorf** (University of British Columbia) 
 * **Robert Spekkens** (Perimeter Instiutute)
 * **Xin Wang** (Hong Kong University of Science and Technology)
+* **Andreas Winter\*** (Universitat Autònoma de Barcelona)
 * **Xiao Yuan** (Peking University)
-<!-- * **Andreas Winter** () -->
+\* To be confirmed
 
 ## Location
 
