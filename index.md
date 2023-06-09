@@ -65,7 +65,7 @@ Registration deadline: 31 October 2023
 Workshop: 11 &ndash; 15 December 2023 -->
 
 
-## Organising committee
+## Organizing committee
 
 * Ryuji Takagi (University of Tokyo)
 * Mile Gu (Nanyang Technological University)
