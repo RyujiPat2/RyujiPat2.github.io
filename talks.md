@@ -1,5 +1,4 @@
 ---
-# layout: page
 title: List of talks
 order: 2
 ---
