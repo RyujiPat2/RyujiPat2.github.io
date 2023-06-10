@@ -5,7 +5,7 @@ order: 2
 ---
 
 <!-- <img src="{{ 'hotel.jpg' | absolute_url }}" width="600px" /> -->
-<img src="{{ 'amara.jpg' | absolute_url }}" width="600px" />
+![Amara Hotel](/amara.jpg)
 
 ## Workshop venue
 
