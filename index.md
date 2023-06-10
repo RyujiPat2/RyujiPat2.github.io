@@ -76,7 +76,7 @@ Please contact <a href="mailto:bartosz.regula@gmail.com">ryujitakagi.pat@gmail.c
 ## Sponsor
 
 The workshop is sponsored by Nanyang Technological University.<br /><a href="http://ntu.edu.sg"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/10/nanyang-technological-university-ntu-vector-logo.png" width="400px" /></a>
-We acknowledge the support of the NTU <a href="https://www.ntu.edu.sg/research/research-careers">Talent Recruitment and Career Support (TRACS) Office</a> through the Lee Kuan Yew Postdoctoral Fellowship funding, as well as the support of the NTU <a href="https://www.ntu.edu.sg/ias">Institute of Advanced Studies</a>.
+We acknowledge the support of the NTU <a href="https://www.ntu.edu.sg/research/research-careers">Talent Recruitment and Career Support (TRACS) Office</a> through the <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)">Lee Kuan Yew Postdoctoral Fellowship</a> funding, as well as the support of the NTU <a href="https://www.ntu.edu.sg/ias">Institute of Advanced Studies</a>.
 
 <!-- We also thank Horizon Quantum Computing for the support.<br /><br />
 <a href="https://www.horizonquantum.com"><img src="/horizon.png" width="300px" /></a> -->
