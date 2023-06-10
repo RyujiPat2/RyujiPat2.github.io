@@ -71,7 +71,7 @@ Workshop: 11 &ndash; 15 December 2023 -->
 * Mile Gu (Nanyang Technological University)
 * Jayne Thompson (A*STAR)
 
-Please contact <a href="mailto:bartosz.regula@gmail.com">ryujitakagi.pat@gmail.com</a> with any queries.
+Please contact <a href="mailto:ryujitakagi.pat@gmail.com">ryujitakagi.pat@gmail.com</a> with any queries.
 
 ## Sponsor
 
