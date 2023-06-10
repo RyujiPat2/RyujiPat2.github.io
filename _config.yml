@@ -4,15 +4,15 @@ highlighter:      rouge
 
 
 # Setup
-title:            'Quantum resources workshop - Singapore 2022'
-tagline:          'Quantum resources: from mathematical foundations to operational characterisation'
-description:      'Workshop on quantum resource theories, taking place between 5 - 8 December 2022 in Singapore.'
-url:              "https://quantumresources.science"
+title:            'Quantum resources workshop - Singapore 2023'
+tagline:          'Quantum Resources 2023'
+description:      'Workshop on quantum resource theories, taking place between 11 - 15 December 2023 in Singapore.'
+url:              "https://ryujipat2.github.io/"
 baseurl:          ''
 
 
 author:
-  name:           'Bartosz Regula'
+  name:           'Ryuji Takagi'
 
 paginate:         5
 
