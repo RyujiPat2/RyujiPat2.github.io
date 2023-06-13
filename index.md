@@ -36,7 +36,6 @@ The workshop will consist of invited talks by experts in various aspects of quan
 * **Martin Plenio** (University of Ulm)
 * **Bartosz Regula** (RIKEN)
 * **Robert Raussendorf** (University of British Columbia) 
-* **Robert Spekkens** (Perimeter Instiutute)
 * **Xin Wang** (Hong Kong University of Science and Technology)
 * **Andreas Winter\*** (Universitat Autònoma de Barcelona) \* To be confirmed
 * **Xiao Yuan** (Peking University)
