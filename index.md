@@ -18,7 +18,7 @@ The workshop *Quantum Resources 2023* focuses on quantum resource theories broad
 
 The workshop will consist of invited talks by experts in various aspects of quantum resource theories as well as contributed talks, poster sessions, and extended discussion sessions.
 
-This is a successor of the previous event, [Quantum resources: from mathematical foundations to operational characterisation](https://quantumresources.science/), which took place in December 2022. 
+This is a successor of the previous event, [Quantum resources: from mathematical foundations to operational characterisation](https://2022.quantumresources.science/), which took place in December 2022. 
 
 <!-- Various properties of quantum systems are starting to find use in the development of practical quantum technologies, elevating phenomena such as entanglement and coherence from mathematical curiosities to physical resources. The framework of quantum resource theories aims to understand these features in a unified fashion and establish methods to characterise them effectively.
 
