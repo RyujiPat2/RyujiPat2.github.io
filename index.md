@@ -53,9 +53,9 @@ The workshop will take place at Amara Hotel Singapore, located in the Singapore 
 
 All deadlines in Anywhere on Earth (AoE) time.
 
-Submission deadline: TBA               
-Notification: TBA            
-Registration TBA            
+Submission deadline: 31 August, 2023               
+Notification: 12 September, 2023            
+Registration deadline: 4 November, 2023              
 Workshop: 11 &ndash; 15 December 2023
 
 <!-- Submission deadline: 13 August 2023   
