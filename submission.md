@@ -8,4 +8,4 @@ Please fill in [this form]([https://docs.google.com/forms/d/e/1FAIpQLSfsOV5ieUTZ
 
 The submission deadline is **August 31, 2023 (AoE time)**.
 
-The talks are selected by the workshop organizers based on the relevance of the topic and the quality of the results. 
+Talks and posters will be selected by the workshop organizers based on the relevance of the topic and the significance of the results. Please note that we will not provide referee feedback upon notification, as the organizing committee is small and will need to be focusing on planning other aspects of the event. We appreciate your understanding. 
