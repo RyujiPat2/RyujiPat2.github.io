@@ -37,6 +37,7 @@ The workshop will consist of invited talks by experts in various aspects of quan
 * **Bartosz Regula** (RIKEN)
 * **Robert Raussendorf** (University of British Columbia) 
 * **Xin Wang** (Hong Kong University of Science and Technology)
+* **Henrik Wilming\*** (Leibniz Universität Hannover) \* To be confirmed
 * **Andreas Winter\*** (Universitat Autònoma de Barcelona) \* To be confirmed
 * **Xiao Yuan** (Peking University)
 
