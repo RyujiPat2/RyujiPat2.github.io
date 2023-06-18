@@ -10,4 +10,4 @@ The submission deadline is **August 31, 2023 (AoE time)**.
 
 Talks and posters will be selected by the workshop organizers based on the relevance of the topic and the significance of the results. Please note that we will not provide referee feedback upon notification, as the organizing committee is small and will need to be focusing on planning other aspects of the event. We appreciate your understanding. 
 
-A list of accepted talks will be available on the conference website at a future date &mdash we will contact presenters once the list is ready. 
+A list of accepted talks will be available on the conference website at a future date&mdash;we will contact presenters once the list is ready. 
