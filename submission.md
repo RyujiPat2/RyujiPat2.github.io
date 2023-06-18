@@ -4,7 +4,7 @@ title: Submission
 order: 3
 ---
 
-Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfsOV5ieUTZIofQRVp8A8HvKMuVfPOz_whRD3sjzpgzI6YXgg/viewform?usp=sf_link) (Google Account needed) and upload a pdf that contains either (1) the arXiv number corresponding to the work presented, or (2) one-page abstract that briefly explains the background/motivation and main results of the work. 
+Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfsOV5ieUTZIofQRVp8A8HvKMuVfPOz_whRD3sjzpgzI6YXgg/viewform?usp=sf_link) (Google Account needed) and upload a pdf that contains either **(1) arXiv reference and one paragraph abstract (+ publication details, if available)**, or **(2) 1-page abstract that briefly explains the background/motivation and main results of the work**.
 
 The submission deadline is **August 31, 2023 (AoE time)**.
 
