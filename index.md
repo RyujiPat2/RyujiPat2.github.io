@@ -16,7 +16,7 @@ order: 1
 
 The workshop *Quantum Resources 2023* focuses on quantum resource theories broadly defined, ranging from abstract mathematical descriptions of quantum resources to operational characterizations of various features in quantum systems and computational tasks. The workshop aims to provide a casual opportunity to discuss recent developments in the field and initiate new collaborations to push the research frontier.   
 
-The workshop will consist of invited talks by experts in various aspects of quantum resource theories as well as contributed talks, poster sessions, and extended discussion sessions. **We are planning an onsite event** to enhance active interactions. We look forward to seeing you in Singapore.  
+The workshop will consist of invited talks by experts in various aspects of quantum resource theories as well as contributed talks, poster sessions, and extended discussion sessions. **We are planning an onsite event** to enhance active interactions. We look forward to seeing you at the conference venue and hope you enjoy the tropical weather of Singapore in December.  
 
 This is a successor of the previous event, [Quantum resources: from mathematical foundations to operational characterisation](https://2022.quantumresources.science/), which took place in December 2022. 
 
