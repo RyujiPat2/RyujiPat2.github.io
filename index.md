@@ -70,7 +70,9 @@ Workshop: 11 &ndash; 15 December 2023 -->
 * Ryuji Takagi (University of Tokyo)
 * Mile Gu (Nanyang Technological University)
 * Jayne Thompson (A*STAR)
-
+* Graeme Berk (Nanyang Technological University)
+* Amalina Lai Shan Shan (Nanyang Technological University)
+  
 Please contact <a href="mailto:ryujitakagi.pat@gmail.com">ryujitakagi.pat@gmail.com</a> with any queries.
 
 ## Sponsor
