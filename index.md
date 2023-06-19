@@ -43,7 +43,7 @@ The workshop will consist of invited talks by experts in various aspects of quan
 
 ## Location
 
-The workshop will take place at Amara Hotel Singapore, located in the Singapore city center known as Tanjong Pagar. For more information and other accommodation options, see [Venue and accommodation](/venue).
+The workshop will take place at Amara Hotel Singapore, located in the Singapore city center known as Tanjong Pagar. For more information, see [Workshop venue](/venue).
 
 <!-- <div class="covid"><p><b><i class="fas fa-info-circle"></i>&nbsp; COVID-19 vaccination notice</b></p>
 	<p>The workshop will be <b>fully in person</b>, and no virtual participation options are planned. All participants will be subject to the <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">entry restrictions of Singapore</a>, which (as of November 2022) require every short-term visitor to be <b>fully vaccinated against COVID-19</b>. This typically means at least one or two doses of a WHO-approved vaccine, depending on the type. </p>
