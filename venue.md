@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venue and accommodation
+title: Workshop venue
 order: 2
 ---
 
