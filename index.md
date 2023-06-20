@@ -35,7 +35,7 @@ The workshop will consist of invited talks by experts in various aspects of quan
 * **Jonathan Oppenheim** (University College London)
 * **Martin Plenio** (University of Ulm)
 * **Bartosz Regula** (RIKEN)
-* **Robert Raussendorf** (University of British Columbia) 
+* **Robert Raussendorf** (Leibniz Universität Hannover) 
 * **Xin Wang** (Hong Kong University of Science and Technology)
 * **Henrik Wilming\*** (Leibniz Universität Hannover) \* To be confirmed
 * **Andreas Winter\*** (Universitat Autònoma de Barcelona) \* To be confirmed
