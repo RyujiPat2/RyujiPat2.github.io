@@ -84,6 +84,6 @@ We acknowledge the support of the NTU <a href="https://www.ntu.edu.sg/research/r
 <a href="https://www.horizonquantum.com"><img src="/horizon.png" width="300px" /></a> -->
 
 
-<!-- <div class="warning"><p><b><i class="fas fa-exclamation-triangle"></i>&nbsp; Scam alert</b></p>
-	<p>We have been notified that an unaffiliated company "EHotel Services" is contacting participants about alleged accommodation bookings for the workshop. Please note that this is a scam, and <b>you will not be contacted by any third party on our behalf</b>.</p>
-</div> -->
+<div class="warning"><p><b><i class="fas fa-exclamation-triangle"></i>&nbsp; Scam alert</b></p>
+	<p>We have been notified that an unaffiliated company "Traveller" is contacting participants about alleged accommodation bookings for the workshop. Please note that this is a scam, and <b>you will not be contacted by any third party on our behalf</b>.</p>
+</div> 
