@@ -48,7 +48,7 @@ The workshop will take place at Amara Hotel Singapore, located in the Singapore 
 
 <!-- <div class="covid"><p><b><i class="fas fa-info-circle"></i>&nbsp; COVID-19 vaccination notice</b></p>
 	<p>The workshop will be <b>fully in person</b>, and no virtual participation options are planned. All participants will be subject to the <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">entry restrictions of Singapore</a>, which (as of November 2022) require every short-term visitor to be <b>fully vaccinated against COVID-19</b>. This typically means at least one or two doses of a WHO-approved vaccine, depending on the type. </p>
-	<p>Please familiarise yourself with the <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">Singapore entry checklist</a>; note in particular that visitors are required to <b>prepare proof of vaccination status</b> and <b>fill out an online entry card in advance of their arrival</b>. The workshop organisers will not take responsibility should any participant be denied entry to the country.</p>
+	<p>Please familiarise yourself with the <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">Singapore entry checklist</a>; note in particular that visitors are required to <b>prepare proof of vaccination status</b> and <b>fill out an online entry card in advance of their arrival</b>. The workshop organizers will not take responsibility should any participant be denied entry to the country.</p>
 </div> -->
 
 ## Dates
