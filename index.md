@@ -30,7 +30,7 @@ The workshop will consist of invited talks by experts in various aspects of quan
 ## Invited speakers
 
 * **Fernando Brandão** (Amazon Web Services/California Institute of Technology)
-* **Giulio Chiribella** (QIQC, The University of Hong Kong)
+* **Giulio Chiribella** (QIQI, The University of Hong Kong)
 * **David Gosset** (University of Waterloo)
 * **Kamil Korzekwa** (Jagiellonian University)
 * **Jonathan Oppenheim** (University College London)
