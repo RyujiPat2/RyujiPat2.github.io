@@ -16,4 +16,4 @@ Talks and posters will be selected by the workshop organizers based on the relev
 A list of accepted talks will be available on the conference website at a future date. We will contact presenters once the list is ready. 
 --->
 
-**Submission is now closed**
+**Submission is now closed. Thank you for your submissions!**
