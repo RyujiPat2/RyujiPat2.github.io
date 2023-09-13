@@ -27,16 +27,16 @@ order: 4
 * **Resources for cooling and erasure** &mdash; Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, Felix C. Binder, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, Marcus Huber
 * **Catalytic and asymptotic equivalence for quantum entanglement** &mdash; Ray Ganardi, Tulja Varun Kondra, Alexander Streltsov
 * **Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond** &mdash; Roberto Rubboli, Ryuji Takagi, Marco Tomamichel
-* Delocalized and Dynamical Catalytic Randomness and Information Flow	Seok Hyung Lie and Hyunseok Jeong
-Quantum contextuality provides communication complexity advantage	Shashank Gupta, Debashis Saha, Zhen-Peng Xu, Adán Cabello, A. S. Majumdar
-* Quantum networks boosted by entanglement with a control system	Tamal Guha, Saptarshi Roy and Giulio Chiribella
-* Thermodynamic state convertibility is determined by qubit cooling and heating	Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour
-* Pseudorandom unitaries are neither real nor sparse nor noise-robust	Tobias Haug, Kishor Bharti, Dax Koh
-* Stabilizer entropies and nonstabilizerness monotones Tobias Haug, Lorenzo Piroli
-* Efficient stabilizer entropies for quantum computers Tobias Haug, Soovin Lee, M.S. Kim
-* Resource theory of asymmetry for finite commutative groups Tomohiro Shitara and Hiroyasu Tajima
-* Coherence manipulation in asymmetry and thermodynamics Tulja Varun Kondra, Ray Ganardi and Alexander Streltsov
-* The coherent measurement cost of coherence distillation	Varun Narasimhachar
-* Non-destructive Local Discrimination of Entangled Quantum States Youngrong Lim, Minki Hhan, Hyukjoon Kwon
-* Quantum Uncertainty Principles for Measurements with Interventions Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu
-* Resource theory of dephasing estimation in multiqubit systems	Zishi Chen, Xueyuan Hu
+* **Delocalized and Dynamical Catalytic Randomness and Information Flow	Seok Hyung Lie and Hyunseok Jeong
+Quantum contextuality provides communication complexity advantage** &mdash; Shashank Gupta, Debashis Saha, Zhen-Peng Xu, Adán Cabello, A. S. Majumdar
+* **Quantum networks boosted by entanglement with a control system** &mdash; Tamal Guha, Saptarshi Roy and Giulio Chiribella
+* **Thermodynamic state convertibility is determined by qubit cooling and heating** &mdash; Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour
+* **Pseudorandom unitaries are neither real nor sparse nor noise-robust** &mdash; Tobias Haug, Kishor Bharti, Dax Koh
+* **Stabilizer entropies and nonstabilizerness monotones** &mdash; Tobias Haug, Lorenzo Piroli
+* **Efficient stabilizer entropies for quantum computers** &mdash; Tobias Haug, Soovin Lee, M.S. Kim
+* **Resource theory of asymmetry for finite commutative groups** &mdash; Tomohiro Shitara and Hiroyasu Tajima
+* **Coherence manipulation in asymmetry and thermodynamics** &mdash; Tulja Varun Kondra, Ray Ganardi and Alexander Streltsov
+* **The coherent measurement cost of coherence distillation** &mdash; Varun Narasimhachar
+* **Non-destructive Local Discrimination of Entangled Quantum States** &mdash; Youngrong Lim, Minki Hhan, Hyukjoon Kwon
+* **Quantum Uncertainty Principles for Measurements with Interventions** &mdash; Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu
+* **Resource theory of dephasing estimation in multiqubit systems** &mdash; Zishi Chen, Xueyuan Hu
