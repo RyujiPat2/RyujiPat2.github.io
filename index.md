@@ -57,6 +57,7 @@ All deadlines in Anywhere on Earth (AoE) time.
 
 ~~Submission deadline: 8 September 2023~~               
 ~~Notification: 12 September 2023~~
+
 **Registration open: Coming soon!** (Registration rates will be announced upon opening)
 Registration deadline: 4 November 2023              
 Workshop: 11 &ndash; 15 December 2023
