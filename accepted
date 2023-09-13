@@ -19,7 +19,7 @@ order: 4
 * A hierarchy of thermal processes collapses under catalysis,	Jeongrak Son and Nelly H. Y. Ng
 * Magic of quantum hypergraph states,	Junjie Chen, Yuxuan Yan, You Zhou
 * Cost of quantum secret key,	Karol Horodecki, Siddhartha Das, Leonard Sikorski and Mark M. Wilde
-* Every quantum helps:  Operational advantage of quantum resources beyond convexity,	Kohdai Kuroiwa, Ryuji Takagi, Gerardo Adesso, and Hayata Yamasaki
+* Every quantum helps:  Operational advantage of quantum resources beyond convexity, Kohdai Kuroiwa, Ryuji Takagi, Gerardo Adesso, and Hayata Yamasaki
 * Detecting entanglement by solving a quadratic equation,	Marcin Wieśniak, Palash Pandya, Omer Sakarya, Bianka Wołoncewicz, Miro Consiglio, Tony Apollaro
 * Asymptotic and catalytic majorization,	Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, Frits Verhagen
 * Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation	Naoto Shiraishi and Ryuji Takagi
@@ -32,11 +32,11 @@ Quantum contextuality provides communication complexity advantage	Shashank Gupta
 * Quantum networks boosted by entanglement with a control system	Tamal Guha, Saptarshi Roy and Giulio Chiribella
 * Thermodynamic state convertibility is determined by qubit cooling and heating	Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour
 * Pseudorandom unitaries are neither real nor sparse nor noise-robust	Tobias Haug, Kishor Bharti, Dax Koh
-* Stabilizer entropies and nonstabilizerness monotones	Tobias Haug, Lorenzo Piroli
-* Efficient stabilizer entropies for quantum computers	Tobias Haug, Soovin Lee, M.S. Kim
-* Resource theory of asymmetry for finite commutative groups	Tomohiro Shitara and Hiroyasu Tajima
-* Coherence manipulation in asymmetry and thermodynamics	Tulja Varun Kondra ,  Ray Ganardi and Alexander Streltsov
+* Stabilizer entropies and nonstabilizerness monotones Tobias Haug, Lorenzo Piroli
+* Efficient stabilizer entropies for quantum computers Tobias Haug, Soovin Lee, M.S. Kim
+* Resource theory of asymmetry for finite commutative groups Tomohiro Shitara and Hiroyasu Tajima
+* Coherence manipulation in asymmetry and thermodynamics Tulja Varun Kondra, Ray Ganardi and Alexander Streltsov
 * The coherent measurement cost of coherence distillation	Varun Narasimhachar
-* Non-destructive Local Discrimination of Entangled Quantum States	Youngrong Lim, Minki Hhan, Hyukjoon Kwon
-* Quantum Uncertainty Principles for Measurements with Interventions	Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu
+* Non-destructive Local Discrimination of Entangled Quantum States Youngrong Lim, Minki Hhan, Hyukjoon Kwon
+* Quantum Uncertainty Principles for Measurements with Interventions Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu
 * Resource theory of dephasing estimation in multiqubit systems	Zishi Chen, Xueyuan Hu
