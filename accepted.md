@@ -8,7 +8,7 @@ order: 4
 
 ## Accepted talks
 
-* Multipartite entanglement theory with entanglement-nonincreasing operations, Alexander Streltsov
+* Multipartite entanglement theory with entanglement-nonincreasing operations &mdash Alexander Streltsov
 * Hadamard gates cannot be implemented with incoherent unitaries, classical control, and arbitrary ancillas, Benjamin D.M. Jones, Paul Skrzypczyk, and Noah Linden
 * The Dynamical Resource Theory of Informational Non-Equilibrium, Benjamin Stratton, Chung-Yun Hsieh, Paul Skrzypczyk
 * Complete Characterization of Entanglement Embezzlement, Elia Zanoni, Thomas Theurer, Gilad Gour
