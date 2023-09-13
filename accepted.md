@@ -41,7 +41,7 @@ Quantum contextuality provides communication complexity advantage** &mdash; Shas
 * **Quantum Uncertainty Principles for Measurements with Interventions** &mdash; Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu
 * **Resource theory of dephasing estimation in multiqubit systems** &mdash; Zishi Chen, Xueyuan Hu
 
-# Accepted posters
+## Accepted posters
 
 * **Parameterized Complexity of Weighted Local Hamiltonian Problems and the Quantum Exponential Time Hypothesis** &mdash; Michael J. Bremner, Zhengfeng Ji, Xingjian Li, Luke Mathieson, Mauro E.S. Morales
 * **A Unified Graph-Theoretic Framework for Free-Fermion Solvability** &mdash; Adrian Chapman, Samuel Elman, Ryan Mann
