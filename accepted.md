@@ -6,6 +6,9 @@ order: 4
 
 <!---![Garden By the Bay](/garden_bay.jpg)--->
 
+![Merlion](/merlion.jpg)
+
+
 ## Accepted talks
 
 * **Multipartite entanglement theory with entanglement-nonincreasing operations** &mdash; Alexander Streltsov
