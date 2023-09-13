@@ -38,7 +38,7 @@ Public transport trips within Singapore can be planned with Google Maps or [City
 
 ## Accommodation
 
-All workshop participants are entitled to discounted rates at Amara Singapore, starting at S$235 (+taxes) per night for a Deluxe Room. To book using this rate, please fill in the form on [this link](https://www.dropbox.com/scl/fi/sfa19kg7fsesslf1h2mjk/hotel_reservation.pdf?rlkey=qc9fuvaeh3y8gptug5s0in850&dl=0) and send it to the hotel email address provided in the form. 
+All workshop participants are entitled to discounted rates at Amara Singapore, starting at S$235 (+ taxes and service charges) per night for a Deluxe Room. To book using this rate, please fill in the form on [this link](https://www.dropbox.com/scl/fi/sfa19kg7fsesslf1h2mjk/hotel_reservation.pdf?rlkey=qc9fuvaeh3y8gptug5s0in850&dl=0) and send it to the hotel email address provided in the form. 
 
 
 There is a wide variety of other hotels in the vicinity of Amara Hotel, all of which can be found through websites such as [Booking.com](https://www.booking.com/searchresults.en-gb.html?checkin=2022-12-04;checkout=2022-12-09;dest_id=8159;dest_type=district;srpvid=1d2060e357470057;ss=Clarke%20Quay&#) or [Hotels.com](https://sg.hotels.com/search.do?resolved-location=NEIGHBORHOOD%3A1771966%3AUNKNOWN%3AUNKNOWN&destination-id=1771966&q-destination=Clarke%20Quay,%20Singapore,%20Singapore&q-check-in=2022-12-04&q-check-out=2022-12-09&q-rooms=1&q-room-0-adults=1&q-room-0-children=0).
