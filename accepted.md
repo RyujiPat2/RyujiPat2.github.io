@@ -87,7 +87,7 @@ order: 4
 * **Resource Theory of Basis Independent Imaginarity** &mdash; Rafael Wagner, Felix Ahnefeld, John Selby, Ana Belén Sainz, Ernesto F. Galvão
 * **Resource-dependent complexity of quantum channels** &mdash; Roy Araiza, Yidong Chen, Marius Junge and Peixue Wu 
 * **The relative entropy of coherence quantifies performance in Bayesian estimation** &mdash; Ruvi Lecamwasam, Syed Assad, Joseph Hope, Ping Koy Lam, Jayne Thompson, Mile Gu
-Deciding infeasibility of optical state generation	Ryan Marshman, Deepesh Singh, and Nora Tischler
+* **Deciding infeasibility of optical state generation** &mdash; Ryan Marshman, Deepesh Singh, and Nora Tischler
 * **Characterizing resource states and efficient regimes of measurement-based quantum computation on NISQ devices** &mdash; Ryohei Weil, Arnab Adhikary, Dmytro Bondarenko, Amritabha Guha, Robert Raussendorf
 * **Efficient Classical Simulation of the DQC1 Circuit with Zero Discord** &mdash; Shalin Jose, A. K. Sairam, Anil Shaji
 * **Quantum State Data Structures** &mdash; Shashvat Shukla
