@@ -27,8 +27,8 @@ order: 4
 * **Resources for cooling and erasure** &mdash; Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, Felix C. Binder, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, Marcus Huber
 * **Catalytic and asymptotic equivalence for quantum entanglement** &mdash; Ray Ganardi, Tulja Varun Kondra, Alexander Streltsov
 * **Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond** &mdash; Roberto Rubboli, Ryuji Takagi, Marco Tomamichel
-* **Delocalized and Dynamical Catalytic Randomness and Information Flow	Seok Hyung Lie and Hyunseok Jeong
-Quantum contextuality provides communication complexity advantage** &mdash; Shashank Gupta, Debashis Saha, Zhen-Peng Xu, Adán Cabello, A. S. Majumdar
+* **Delocalized and Dynamical Catalytic Randomness and Information Flow** &mdash; Seok Hyung Lie and Hyunseok Jeong
+* **Quantum contextuality provides communication complexity advantage** &mdash; Shashank Gupta, Debashis Saha, Zhen-Peng Xu, Adán Cabello, A. S. Majumdar
 * **Quantum networks boosted by entanglement with a control system** &mdash; Tamal Guha, Saptarshi Roy and Giulio Chiribella
 * **Thermodynamic state convertibility is determined by qubit cooling and heating** &mdash; Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour
 * **Pseudorandom unitaries are neither real nor sparse nor noise-robust** &mdash; Tobias Haug, Kishor Bharti, Dax Koh
