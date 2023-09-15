@@ -44,7 +44,7 @@ All workshop participants are entitled to discounted rates at Amara Singapore, s
 There is a wide variety of other hotels in the vicinity of Amara Hotel, all of which can be found through websites such as [Booking.com](https://www.booking.com/searchresults.en-gb.html?checkin=2022-12-04;checkout=2022-12-09;dest_id=8159;dest_type=district;srpvid=1d2060e357470057;ss=Clarke%20Quay&#) or [Hotels.com](https://sg.hotels.com/search.do?resolved-location=NEIGHBORHOOD%3A1771966%3AUNKNOWN%3AUNKNOWN&destination-id=1771966&q-destination=Clarke%20Quay,%20Singapore,%20Singapore&q-check-in=2022-12-04&q-check-out=2022-12-09&q-rooms=1&q-room-0-adults=1&q-room-0-children=0).
 
 
-<!-- We also suggest to search for other hotels around the Chinatown and Bugis areas, which have many cheaper options and are within a 10&ndash;15-minute bus ride to the workshop venue. -->
+We also suggest to search for other hotels around the Chinatown and Bugis areas, which have many cheaper options and are within a 10&ndash;20-minute bus/subway ride to the workshop venue.
 
 <!-- ## Workshop dinner
 
