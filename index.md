@@ -59,7 +59,7 @@ All deadlines in Anywhere on Earth (AoE) time.
 
 ~~Notification: 12 September 2023~~
 
-**Registration open: Coming soon!** (Registration fees will be announced upon opening)
+**Registration open: 4 October** (Registration fees: SGD 600 for general participants, SGD 500 for students)
 
 
 Registration deadline: 4 November 2023
