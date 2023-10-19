@@ -71,7 +71,7 @@ order: 4
 * **On The Study Of Partial Qubit Hamiltonian For Efficient Molecular Simulation Using Variational Quantum Eigensolvers** &mdash; Harshdeep Singh, Sabyashachi Mishra, Sonjoy Majumder
 * **Diagrammatic Characterization of Gaussian and non-Gaussian Processes Based on Generalization of ZX-calculus** &mdash; Hironari Nagayoshi, Warit Asavanant, Ryuhoh Ide, Akira Furusawa
 * **Complexity of frustration: a new source of non-local non-stabilizerness** &mdash; J. Odavić, T. Haug, G. Torre, A. Hamma, F. Franchini, S. M. Giampaolo
-* **Quantum Information Procession with Finite Thermodynamic Resources** &mdash; Jake Xuereb, Florian Meier, Mark Mitchison, Paul Erker, Tiago Debarba, Marcus Huber
+* **Quantum Information Processing with Finite Thermodynamic Resources** &mdash; Jake Xuereb, Florian Meier, Mark Mitchison, Paul Erker, Tiago Debarba, Marcus Huber
 * **Contextuality, Coherences, and Quantum Cheshire Cats** &mdash; Jonte R Hance, Ming Ji, and Holger F Hofmann
 * **Universal Landauer-Like Inequality from the First Law of Thermodynamics** &mdash; Junjie Liu, Hanlin Nie
 * **Fundamental Limitations on Communication over a Quantum Network** &mdash; Junjing Xing, Tianfeng Feng, Zhaobing Fan, Haitao Ma, Kishor Bharti, Dax Enshan Koh, and Yunlong Xiao
