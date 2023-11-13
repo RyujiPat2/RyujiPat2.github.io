@@ -39,7 +39,6 @@ The workshop will consist of invited talks by experts in various aspects of quan
 * **Robert Raussendorf** (Leibniz Universität Hannover) 
 * **Xin Wang** (Hong Kong University of Science and Technology (Guangzhou))
 * **Henrik Wilming** (Leibniz Universität Hannover) 
-* **Andreas Winter\*** (Universitat Autònoma de Barcelona) \* To be confirmed
 * **Xiao Yuan** (Peking University)
 
 ## Location
