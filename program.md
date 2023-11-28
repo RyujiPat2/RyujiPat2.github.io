@@ -14,7 +14,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 
 | Time | Description |
 |--- |--- |
-| 8:50 - 9:20   | registration |
+| 8:50 - 9:20   | Registration |
 | 9:20 - 9:30   | <span class="p-invited">Opening (Ryuji Takagi)</span>                        |
 | 9:30 - 10:05  | <span class="p-contrib">**Bratosz Regula**<br /><i>On reversibility of quantum resources</i></span>                      |
 | 10:05 - 10:30 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>                           |
