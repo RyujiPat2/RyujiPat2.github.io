@@ -22,7 +22,7 @@ order: 2
 | 10:05 - 10:30 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>                           |
 | 10:30 - 10:55 | **Alexander Streltsov** <br /><i>Multipartite entanglement theory with entanglement-nonincreasing operations</i>                             |
 | 10:55 - 11:30 | <span class="p-invited">Coffee</span>                            |
-| 11:30 - 12:05 | <span class="p-contrib"> Jonathan Oppenheim<br/><i>TBD</i> </span>                       |
+| 11:30 - 12:05 | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>TBD</i> </span>                       |
 | 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>                     |
 | 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>Resource Theories and Noise Reduction</i>                             |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
