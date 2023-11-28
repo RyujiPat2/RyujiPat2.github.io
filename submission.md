@@ -1,6 +1,4 @@
----
-title: Submission
----
+
 
 ![Garden By the Bay](/garden_bay.jpg)
 
