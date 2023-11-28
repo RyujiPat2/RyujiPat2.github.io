@@ -1,8 +1,3 @@
----
-layout: page
-title: Accepted presentation
-order: 4
----
 
 <!---![Garden By the Bay](/garden_bay.jpg)--->
 
