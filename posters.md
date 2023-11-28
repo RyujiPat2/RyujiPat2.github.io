@@ -6,11 +6,9 @@ order: 3
 
 <!---![Garden By the Bay](/garden_bay.jpg)--->
 
-![Merlion](/merlion.jpg)
+<!---![Merlion](/merlion.jpg)--->
 
-- Poster sessions take place on Monday and Tuesday in the foyer just outside the Ballroom.
-- All posters will be presented on both days.
-- Posters should be printed within A0 portrait.  
+Poster sessions take place on Monday and Tuesday in the foyer just outside the Ballroom. All posters will be presented on both days. Posters should be printed within A0 portrait.  
 
 * **Negativity as a Resource for Memory Reduction in Stochastic Process Modeling** &mdash; Andrew Tanggara, Kelvin Onggadinata, Mile Gu, Dagomir Kaszlikowski
 * **Linear combination of unitaries in linear optics** &mdash; Austin Lund,  Ryan Marshman, Timothy Ralph, Peter Rohde, and Deepesh Singh
