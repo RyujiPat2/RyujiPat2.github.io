@@ -30,7 +30,7 @@ order: 2
 | 14:35 - 15:00 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>                         |
 | 15:00 - 15:25 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>                          |
 | 15:25 - 16:00 | <span class="p-invited">Coffee</span>                         |
-| 16:00 - 18:30 | <span class="p-invited">**Poster session and discussions**</span> |
+| 16:00 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
 
 
 ## Tuesday 12 December
@@ -50,7 +50,7 @@ order: 2
 | 14:35 - 15:00 | Tobias Haug, **Soovin Lee**, and M.S. Kim<br /><i>Efficient stabilizer entropies for quantum computers</i>             |
 | 15:00 - 15:25 | **Tobias Haug** and Lorenzo Piroli<br /><i>Stabilizer entropies and nonstabilizerness monotones</i>            |
 | 15:25 - 16:00 | <span class="p-invited">Coffee</span> |
-| 16:00 - 18:30 | <span class="p-invited">**Poster session and discussions**</span> |
+| 16:00 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
 
 
 
@@ -67,7 +67,7 @@ order: 2
 | 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>The coherent measurement cost of coherence distillation</i>        |
 | 12:55 - 14:00  | <span class="p-invited">Lunch</span>      |
 | 14:00 - 18:00  | <span class="p-invited">Discussions</span>     |
-| 18:00 -   | <span class="p-invited">Conference dinner (OSO Ristorante, 27th floor of Oasia hotel)</span>     |
+| 18:00 -   | <span class="p-invited"><b>Conference dinner</b> (OSO Ristorante, 27th floor of Oasia hotel)</span>     |
 
 
 ## Thursday 14 December
@@ -86,7 +86,7 @@ order: 2
 | 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
 | 15:00 - 15:20   | Muhammad Usman Farooq, Tobias Fritz, **Erkka Haapasalo**, Marco Tomamichel, Frits Verhagen<br /><i>Asymptotic and catalytic majorization</i>          |
 | 15:25 - 16:00   | <span class="p-invited">Coffee</span> | 
-| 16:00 - 16:30   | <span class="p-invited">**Open problem session**</span>        |
+| 16:00 - 16:30   | <span class="p-invited"><b>Open problem session</b></span>        |
 | 16:30 - 18:30   | <span class="p-invited">Discussion</span> | 
 
 
