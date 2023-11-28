@@ -28,7 +28,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 14:35 - 15:00 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>                         |
 | 15:00 - 15:20 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>                          |
 | 15:25 - 16:00 | <span class="p-invited">Coffee</span>                         |
-| 16:00 - 18:30 | <span class="p-invited">***Poster session and discussions***</span> |
+| 16:00 - 18:30 | <span class="p-invited">**Poster session and discussions**</span> |
 
 
 ## Tuesday 12 December
@@ -48,7 +48,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 14:35 - 15:00 | Tobias Haug, **Soovin Lee**, and M.S. Kim<br /><i>Efficient stabilizer entropies for quantum computers</i>             |
 | 15:00 - 15:25 | **Tobias Haug** and Lorenzo Piroli<br /><i>Stabilizer entropies and nonstabilizerness monotones</i>            |
 | 15:25 - 16:00 | <span class="p-invited">Coffee</span> |
-| 16:00 - 18:30 | <span class="p-invited">***Poster session and discussions***</span> |
+| 16:00 - 18:30 | <span class="p-invited">**Poster session and discussions**</span> |
 
 
 
