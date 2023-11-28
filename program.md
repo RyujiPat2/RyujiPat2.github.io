@@ -16,7 +16,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 |--- |--- |
 | 8:50 - 9:20   | Registration |
 | 9:20 - 9:30   | <span class="p-invited">Opening (Ryuji Takagi)</span>                        |
-| 9:30 - 10:05  | <span class="p-contrib"><b>Bratosz Regula**<br /><i>On reversibility of quantum resources</i></span>                      |
+| 9:30 - 10:05  | <span class="p-contrib"><b>Bratosz Regula</b><br /><i>On reversibility of quantum resources</i></span>                      |
 | 10:05 - 10:30 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>                           |
 | 10:30 - 10:55 | **Alexander Streltsov** <br /><i>Multipartite entanglement theory with entanglement-nonincreasing operations</i>                             |
 | 10:55 - 11:30 | <span class="p-invited">Coffee</span>                            |
@@ -24,7 +24,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>                     |
 | 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>Resource Theories and Noise Reduction</i>                             |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
-| 14:00 - 14:35 | <span class="p-contrib"><b>Robert Raussendorf**<br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i></span>                       |
+| 14:00 - 14:35 | <span class="p-contrib"><b>Robert Raussendorf</b><br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i></span>                       |
 | 14:35 - 15:00 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>                         |
 | 15:00 - 15:20 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>                          |
 | 15:25 - 16:00 | <span class="p-invited">Coffee</span>                         |
