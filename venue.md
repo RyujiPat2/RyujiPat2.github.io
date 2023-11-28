@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue and accommodation
-order: 2
+order: 3
 ---
 
 <!-- <img src="{{ 'hotel.jpg' | absolute_url }}" width="600px" /> -->
