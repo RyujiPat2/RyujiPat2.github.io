@@ -8,7 +8,6 @@ All talks take place in Ballrooms 1 and 2 (connected) of Amara Hotel. Coffee bre
 Poster sessions take place in the foyer just outside the Ballroom.
 The conference dinner will take place on Wednesday at OSO Ristorante, located on the 27th floor of Oasia hotel (just next to Amara hotel) (<a href="https://maps.app.goo.gl/8JU3ZgCXGpXNZCPF9">100 Peck Seah St, Singapore 079333</a>). 
 
-<!---
 
 ## Monday 11 December
 
@@ -108,4 +107,3 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 15:25 - 15:35  | <span class="p-invited">Closing (Ryuji Takagi)</span>         |
 | 15:35 -   | <span class="p-invited">Coffee and discussions</span>        |
 
--->
