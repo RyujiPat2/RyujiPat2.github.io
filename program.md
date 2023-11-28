@@ -23,7 +23,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 11:30 - 12:05 | <span class="p-contrib"> Jonathan Oppenheim<br/><i>TBD</i> </span>                       |
 | 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>                     |
 | 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>Resource Theories and Noise Reduction</i>                             |
-| 12:55 - 14:00 | <span class="p-invited">lunch</span>                        |
+| 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
 | 14:00 - 14:35 | <span class="p-contrib">**Robert Raussendorf**<br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i></span>                       |
 | 14:35 - 15:00 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>                         |
 | 15:00 - 15:20 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>                          |
@@ -43,7 +43,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 11:55 - 12:20 | **Kohdai Kuroiwa**, Ryuji Takagi, Gerardo Adesso, and Hayata Yamasaki<br /><i>Every quantum helps:  Operational advantage of quantum resources beyond convexity</i>             |
 | 12:20 - 12:45 | **Yunlong Xiao**, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu <br /><i>Quantum Uncertainty Principles for Measurements with Interventions</i>               |
 | 12:45 - 12:55 | <span class="p-invited">group photos</span>           |
-| 12:55 - 14:00 | <span class="p-invited">lunch</span>           |
+| 12:55 - 14:00 | <span class="p-invited">Lunch</span>           |
 | 14:00 - 14:35 |  <span class="p-contrib">**David Gosset**<br /><i>TBD</i></span>           |
 | 14:35 - 15:00 | Tobias Haug, **Soovin Lee**, and M.S. Kim<br /><i>Efficient stabilizer entropies for quantum computers</i>             |
 | 15:00 - 15:25 | **Tobias Haug** and Lorenzo Piroli<br /><i>Stabilizer entropies and nonstabilizerness monotones</i>            |
@@ -63,7 +63,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 11:30 - 12:05  | <span class="p-contrib">**Xiao Yuan**<br /><i>Virtual quantum resource distillation</i></span>        |
 | 12:05 - 12:30  | **Benjamin D.M. Jones**, Paul Skrzypczyk, and Noah Linden <br /><i>Hadamard gates cannot be implemented with incoherent unitaries, classical control, and arbitrary ancillas</i>     |
 | 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>The coherent measurement cost of coherence distillation</i>        |
-| 12:55 - 14:00  | <span class="p-invited">lunch</span>      |
+| 12:55 - 14:00  | <span class="p-invited">Lunch</span>      |
 | 14:00 - 18:00  | <span class="p-invited">Discussions</span>     |
 | 18:00 -   | <span class="p-invited">Conference dinner (OSO Ristorante, 27th floor of Oasia hotel)</span>     |
 
@@ -79,7 +79,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 11:30 - 11:55   | Tulja Varun Kondra, **Ray Ganardi**, and Alexander Streltsov<br /><i>Coherence manipulation in asymmetry and thermodynamics</i>           |
 | 11:55 - 12:20   | **Naoto Shiraishi** and Ryuji Takagi<br /><i>Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation</i>             |
 | 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite commutative groups</i>  |
-| 12:45 - 14:00   | <span class="p-invited">lunch</span>             |
+| 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
 | 14:00 - 14:35   | <span class="p-contrib">**Henrik Wilming**<br /><i>Universal embezzlers</i></span>               |
 | 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
 | 15:00 - 15:20   | Muhammad Usman Farooq, Tobias Fritz, **Erkka Haapasalo**, Marco Tomamichel, Frits Verhagen<br /><i>Asymptotic and catalytic majorization</i>          |
@@ -100,7 +100,7 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 11:30 - 11:55  | **Marcin Wieśniak**, Palash Pandya, Omer Sakarya, Bianka Wołoncewicz, Miro Consiglio, and Tony Apollaro<br /><i>Detecting entanglement by solving a quadratic equation</i>        |
 | 11:55 - 12:20  | **Ray Ganardi**, Tulja Varun Kondra, and Alexander Streltsov <br /><i>Catalytic and asymptotic equivalence for quantum entanglement</i>     |
 | 12:20 - 12:45  | **Youngrong Lim**, Minki Hhan, Hyukjoon Kwon <br /><i>Non-destructive Local Discrimination of Entangled Quantum States</i>        |
-| 12:45 - 14:00  | <span class="p-invited">lunch</span>        |
+| 12:45 - 14:00  | <span class="p-invited">Lunch</span>        |
 | 14:00 - 14:35  | <span class="p-contrib">**Xin Wang**<br/><i>Entanglement Cost for Preparing and Distinguishing Quantum States</i></span>     |
 | 14:35 - 15:00  | **Zishi Chen** and Xueyuan Hu<br /><i>Resource theory of dephasing estimation in multiqubit systems</i>    |
 | 15:00 - 15:25  | **Felix Ahnefeld**, Thomas Theurer, Martin B. Plenio<br /><i>Coherence in phase estimation</i>    |
