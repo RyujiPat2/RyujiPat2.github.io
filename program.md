@@ -41,7 +41,7 @@ order: 2
 | 10:05 - 10:30 | **Benjamin Stratton**, Chung-Yun Hsieh, and Paul Skrzypczyk <br /><i>The Dynamical Resource Theory of Informational Non-Equilibrium</i>           |
 | 10:30 - 10:55 | Nicole Yunger Halpern, Anthony Munson, Naga Teja Bhavia Kothakonda, Jonas Haferkamp, Jens Eisert, and **Philippe Faist**<br /><i>Resource theory of quantum complexity with applications to quantum thermodynamics</i>     |
 | 10:55 - 11:30 | <span class="p-invited">Coffee</span>              |
-| 11:30 - 11:55 | Huan-Yu Ku, **Chung-Yun Hsieh**, Shin-Liang Chen, Yueh-Nan Chen, and Costantino Budroni<i>Can we stochastically distill quantum steering and measurement incompatibility?</i></span>               |
+| 11:30 - 11:55 | Huan-Yu Ku, **Chung-Yun Hsieh**, Shin-Liang Chen, Yueh-Nan Chen, and Costantino Budroni<br /><i>Can we stochastically distill quantum steering and measurement incompatibility?</i>              |
 | 11:55 - 12:20 | **Kohdai Kuroiwa**, Ryuji Takagi, Gerardo Adesso, and Hayata Yamasaki<br /><i>Every quantum helps:  Operational advantage of quantum resources beyond convexity</i>             |
 | 12:20 - 12:45 | **Yunlong Xiao**, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu <br /><i>Quantum Uncertainty Principles for Measurements with Interventions</i>               |
 | 12:45 - 12:55 | <span class="p-invited">Group photos</span>           |
