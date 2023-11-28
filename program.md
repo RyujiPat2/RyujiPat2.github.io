@@ -104,6 +104,6 @@ The conference dinner will take place on Wednesday at OSO Ristorante, located on
 | 14:00 - 14:35  | <span class="p-contrib"><b>Xin Wang<\b><br/><i>Entanglement Cost for Preparing and Distinguishing Quantum States</i></span>     |
 | 14:35 - 15:00  | **Zishi Chen** and Xueyuan Hu<br /><i>Resource theory of dephasing estimation in multiqubit systems</i>    |
 | 15:00 - 15:25  | **Felix Ahnefeld**, Thomas Theurer, Martin B. Plenio<br /><i>Coherence in phase estimation</i>    |
-| 15:25 - 15:35  | <span class="p-invited">Closing (Ryuji Takagi)</span>         |
+| 15:25 - 15:35  | <span class="p-invited">Closing </span>         |
 | 15:35 -   | <span class="p-invited">Coffee and discussions</span>        |
 
