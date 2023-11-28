@@ -66,7 +66,7 @@ order: 2
 | 12:05 - 12:30  | **Benjamin D.M. Jones**, Paul Skrzypczyk, and Noah Linden <br /><i>Hadamard gates cannot be implemented with incoherent unitaries, classical control, and arbitrary ancillas</i>     |
 | 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>The coherent measurement cost of coherence distillation</i>        |
 | 12:55 - 14:00  | <span class="p-invited">Lunch</span>      |
-| 14:00 - 18:00  | <span class="p-invited">Discussions</span>     |
+| 14:00 - 18:00  | <span class="p-invited">Discussions, free time</span>     |
 | 18:00 -   | <span class="p-invited"><b>Conference dinner</b> (OSO Ristorante, 27th floor of Oasia hotel)</span>     |
 
 
@@ -84,7 +84,7 @@ order: 2
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
 | 14:00 - 14:35   | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i></span>               |
 | 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
-| 15:00 - 15:20   | Muhammad Usman Farooq, Tobias Fritz, **Erkka Haapasalo**, Marco Tomamichel, Frits Verhagen<br /><i>Asymptotic and catalytic majorization</i>          |
+| 15:00 - 15:25   | Muhammad Usman Farooq, Tobias Fritz, **Erkka Haapasalo**, Marco Tomamichel, Frits Verhagen<br /><i>Asymptotic and catalytic majorization</i>          |
 | 15:25 - 16:00   | <span class="p-invited">Coffee</span> | 
 | 16:00 - 16:30   | <span class="p-invited"><b>Open problem session</b></span>        |
 | 16:30 - 18:30   | <span class="p-invited">Discussions</span> | 
