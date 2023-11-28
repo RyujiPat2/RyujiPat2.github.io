@@ -1,13 +1,10 @@
-<!---
 ---
-layout: page
 title: Submission
 order: 3
 ---
 
 ![Garden By the Bay](/garden_bay.jpg)
 
---->
 
 <!---
 Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfsOV5ieUTZIofQRVp8A8HvKMuVfPOz_whRD3sjzpgzI6YXgg/viewform?usp=sf_link) (Google Account needed) to submit either **arXiv reference and one paragraph abstract (+ publication details, if available)**, or **1-page abstract that briefly explains the background/motivation and main results of the work**. Authors are encouraged to include a copy of the full technical paper (either as a pdf or simply as an open-access link), but work-in-progress submissions without a full manuscript will also be considered. 
@@ -19,6 +16,4 @@ Talks and posters will be selected by the workshop organizers based on the relev
 A list of accepted talks will be available on the conference website at a future date. We will contact presenters once the list is ready. 
 --->
 
-<!---
 **Submission is now closed. Thank you for your submissions!**
---->
