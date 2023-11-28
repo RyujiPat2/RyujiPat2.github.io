@@ -6,7 +6,7 @@ order: 2
 
 - All talks take place in Ballrooms 1 and 2 (connected) of Amara Hotel.
 - Coffee breaks and registration take place in the foyer just outside the Ballroom.
-- The lunch is served at Element restaurant located on the first floor of the hotel.
+- Lunches are served at Element restaurant located on the first floor of the hotel.
 - Poster sessions take place in the foyer just outside the Ballroom.
 - The conference dinner will take place on Wednesday at OSO Ristorante, located on the 27th floor of Oasia hotel (just next to Amara hotel) (<a href="https://maps.app.goo.gl/8JU3ZgCXGpXNZCPF9">100 Peck Seah St, Singapore 079333</a>). 
 
