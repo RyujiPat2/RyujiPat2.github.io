@@ -87,7 +87,7 @@ order: 2
 | 15:00 - 15:20   | Muhammad Usman Farooq, Tobias Fritz, **Erkka Haapasalo**, Marco Tomamichel, Frits Verhagen<br /><i>Asymptotic and catalytic majorization</i>          |
 | 15:25 - 16:00   | <span class="p-invited">Coffee</span> | 
 | 16:00 - 16:30   | <span class="p-invited"><b>Open problem session</b></span>        |
-| 16:30 - 18:30   | <span class="p-invited">Discussion</span> | 
+| 16:30 - 18:30   | <span class="p-invited">Discussions</span> | 
 
 
 
