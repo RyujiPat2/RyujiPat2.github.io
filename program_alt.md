@@ -1,8 +1,4 @@
----
-layout: page
-title: Program
-order: 2
----
+
 
 - All talks take place in Ballrooms 1 and 2 (connected) of Amara Hotel.
 - Poster sessions take place on Monday and Tuesday in the foyer just outside the Ballroom.
