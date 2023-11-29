@@ -75,7 +75,7 @@ order: 2
 |--- |--- |
 | 10:00 - 10:35   | <span class="p-contrib"><b>Kamil Korzekwa</b><br/><i>Finite size effects in quantum thermodynamics</i></span>        |
 | 10:35 - 11:00  | **Jeongrak Son** and Nelly H. Y. Ng<br /><i>A hierarchy of thermal processes collapses under catalysis</i>         |
-| 10:55 - 11:30   | <span class="p-invited">Break</span>            |
+| 11:00 - 11:30   | <span class="p-invited">Break</span>            |
 | 11:30 - 11:55   | Tulja Varun Kondra, **Ray Ganardi**, and Alexander Streltsov<br /><i>Coherence manipulation in asymmetry and thermodynamics</i>           |
 | 11:55 - 12:20   | **Naoto Shiraishi** and Ryuji Takagi<br /><i>Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation</i>             |
 | 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite commutative groups</i>  |
