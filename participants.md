@@ -22,7 +22,7 @@ order: 4
 * **Chung-Yun	Hsieh**,	University of Bristol
 * **David	Gosset**,	University of Waterloo and Perimeter Institute
 * **Deepesh	Singh**,	The University of Queensland
-* **Dinesh Kumar**,	Panda	National Institute of Science Education and Research, Bhubaneswar, India
+* **Dinesh Kumar**,	Panda	National Institute of Science Education and Research
 * **Elia	Zanoni**,	University of Calgary
 * **Erkka	Haapasalo**,	National University of Singapore, Centre for Quantum Technologies
 * **Felix	Ahnefeld**,	University of Ulm
