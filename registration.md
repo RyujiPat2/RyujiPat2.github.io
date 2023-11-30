@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-order: 5
+order: 6
 ---
 
 ![Waterfall](/waterfall.jpg)
