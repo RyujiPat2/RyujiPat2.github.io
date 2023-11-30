@@ -4,7 +4,7 @@ title: Program
 order: 2
 ---
 
-- All talks take place in Ballrooms 1 and 2 (connected) of Amara Hotel, located on the second floor (just beside the hotel check-in counter).
+- All talks take place in the Ballroom of Amara Hotel, located on the second floor (just across the hotel check-in counters).
 - Poster sessions take place on Monday and Tuesday in the foyer just outside the Ballroom.
 - Coffee breaks and registration take place in the foyer just outside the Ballroom.
 - Lunches are served at Element restaurant located on the first floor of the hotel.
