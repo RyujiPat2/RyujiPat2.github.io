@@ -55,7 +55,7 @@ order: 4
 * **Kishor	Bharti**,	A*Star
 * **Lea	Lautenbacher**,	Ulm University
 * **Lorcan	Conlon**,	IMRE, ASTAR
-* **Lucky	Antonopoulos**,	Centre for Quantum Computation and Communication Technology, School of Science, RMIT University, Melbourne VIC 3000 Australia
+* **Lucky	Antonopoulos**,	RMIT University
 * **Marcin	Wieśniak**,	University of Gdańsk
 * **Marco	Tomamichel**,	NUS
 * **Martin Bodo	Plenio**,	Ulm University
