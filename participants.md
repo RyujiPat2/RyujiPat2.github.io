@@ -25,7 +25,7 @@ order: 4
 * **Dinesh Kumar Panda**, National Institute of Science Education and Research, Bhubaneswar, India
 * **Elia	Zanoni**,	University of Calgary
 * **Erkka	Haapasalo**,	National University of Singapore, Centre for Quantum Technologies
-* **Felix	Ahnefeld**,	University of Ulm
+* **Felix	Ahnefeld**,	Ulm University
 * **Felix	Binder**,	Trinity College Dublin
 * **Feng	Pan**,	Centre for Quantum Technologies, National University of Singapore
 * **Fernando	Brandao**,	AWS
