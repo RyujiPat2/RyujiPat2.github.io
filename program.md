@@ -18,7 +18,7 @@ order: 2
 |--- |--- |
 | 9:00 - 9:50   | Registration |
 | 9:50 - 10:00   | <span class="p-invited">Opening (Ryuji Takagi)</span>                        |
-| 10:00 - 10:35  | <span class="p-contrib"><b>Bratosz Regula</b><br /><i>On reversibility of quantum resources</i></span>                      |
+| 10:00 - 10:35  | <span class="p-contrib"><b>Bartosz Regula</b><br /><i>On reversibility of quantum resources</i></span>                      |
 | 10:35 - 11:00 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>                           |
 | 11:00 - 11:30 | <span class="p-invited">Break</span>                            |
 | 11:30 - 12:05 | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>TBD</i> </span>                       |
