@@ -37,7 +37,7 @@ order: 2
 
 | Time | Description |
 |--- |--- |
-| 10:00 - 10:35  | <span class="p-contrib"><b>Fernando Brandão</b><br /><i>A reversive theory of resource for almost-iid?</i></span>          |
+| 10:00 - 10:35  | <span class="p-contrib"><b>Fernando Brandão</b><br /><i>A reversible theory of resources for almost-iid states?</i></span>          |
 | 10:35 - 11:00 | **Benjamin Stratton**, Chung-Yun Hsieh, and Paul Skrzypczyk <br /><i>The Dynamical Resource Theory of Informational Non-Equilibrium</i>           |
 | 11:00 - 11:30 | <span class="p-invited">Break</span>              |
 | 11:30 - 11:55 | Huan-Yu Ku, **Chung-Yun Hsieh**, Shin-Liang Chen, Yueh-Nan Chen, and Costantino Budroni<br /><i>Can we stochastically distill quantum steering and measurement incompatibility?</i>              |
