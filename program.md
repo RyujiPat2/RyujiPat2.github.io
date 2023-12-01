@@ -21,7 +21,7 @@ order: 2
 | 10:00 - 10:35  | <span class="p-contrib"><b>Bartosz Regula</b><br /><i>On reversibility of quantum resources</i></span>                      |
 | 10:35 - 11:00 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>                           |
 | 11:00 - 11:30 | <span class="p-invited">Break</span>                            |
-| 11:30 - 12:05 | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>TBD</i> </span>                       |
+| 11:30 - 12:05 | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i></span>                      |
 | 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>                     |
 | 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>Resource Theories and Noise Reduction</i>                             |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
@@ -80,7 +80,7 @@ order: 2
 | 11:55 - 12:20   | **Naoto Shiraishi** and Ryuji Takagi<br /><i>Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation</i>             |
 | 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite commutative groups</i>  |
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
-| 14:00 - 14:35   | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i></span>             |  
+| 14:00 - 14:35   | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>TBD</i> </span>              |  
 | 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
 | 15:00 - 15:30   | <span class="p-invited">Break</span> | 
 | 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, **Erkka Haapasalo**, Marco Tomamichel, Frits Verhagen<br /><i>Asymptotic and catalytic majorization</i>          |
