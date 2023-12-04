@@ -22,6 +22,7 @@ order: 4
 * **Chung-Yun	Hsieh**,	University of Bristol
 * **David	Gosset**,	University of Waterloo and Perimeter Institute
 * **Deepesh	Singh**,	The University of Queensland
+* **Derek Ding Cong Chang**, NTU
 * **Dinesh Kumar Panda**, National Institute of Science Education and Research, Bhubaneswar, India
 * **Elia	Zanoni**,	University of Calgary
 * **Erkka	Haapasalo**,	National University of Singapore, Centre for Quantum Technologies
@@ -45,6 +46,7 @@ order: 4
 * **Jake	Xuereb**,	Atominstitut, TU Wien
 * **Jayne	Thompson**,	A*Star
 * **Jeongrak	Son**,	Nanyang Technological University
+* **Jianjun Chen**, NTU
 * **Jiawei	Wu**,	National University of Singapore
 * **Jonathan 	Oppenheim**,	University College London
 * **Jose Manuel	Aguero Trejo**,	University of Auckland
@@ -53,6 +55,7 @@ order: 4
 * **Kamil	Korzekwa**,	Jagiellonian University
 * **Kelvin	Onggadinata**,	Centre for Quantum Technologies
 * **Kishor	Bharti**,	A*Star
+* **Kohdai Kuroiwa**, University of Waterloo
 * **Lea	Lautenbacher**,	Ulm University
 * **Lorcan	Conlon**,	IMRE, ASTAR
 * **Lucky	Antonopoulos**,	RMIT University
@@ -60,8 +63,10 @@ order: 4
 * **Marco	Tomamichel**,	NUS
 * **Martin Bodo	Plenio**,	Ulm University
 * **Mile	Gu**,	NTU
+* **Minjeong Song**, NTU
 * **Min-Hsiu	Hsieh**, 	Foxconn
 * **Naoto	Shiraishi**,	University of Tokyo
+* **Nelly Ng**, NTU
 * **Nicolò	Piccione**,	Centre for Quantum Technologies
 * **Nikhil	bransal**,	A*Star
 * **Peixue	Wu**,	Unversity of Waterloo
