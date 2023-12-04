@@ -32,6 +32,7 @@ Poster sessions take place on Monday and Tuesday in the foyer just outside the B
 * **Characterizing resource states and efficient regimes of measurement-based quantum computation on NISQ devices** &mdash; Ryohei Weil, Arnab Adhikary, Dmytro Bondarenko, Amritabha Guha, Robert Raussendorf
 * **Efficient Classical Simulation of the DQC1 Circuit with Zero Discord** &mdash; Shalin Jose, A. K. Sairam, Anil Shaji
 * **Quantum State Data Structures** &mdash; Shashvat Shukla
+* **Causal Asymmetry of Classical and Quantum Agents** &mdash; Spiros Kechrimparis, Mile Gu, Hyukjoon Kwon
 * **Absolute fully entangled fraction from spectrum** &mdash; Tapaswini Patro, Kaushiki Mukherjee, Mohd Asad Siddiqui, Indranil Chakrabarty, and Nirman Ganguly
 * **Cooling and work extraction under memory assisted Markovian thermal processes** &mdash; Yuancheng Liu, Xueyuan Hu
 * **Noise effects on purity and quantum entanglement in terms of physical implementability** &mdash; Yuchen Guo and Shuo Yang
