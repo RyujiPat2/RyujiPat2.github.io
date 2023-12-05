@@ -81,9 +81,9 @@ order: 2
 | 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite commutative groups</i>  |
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
 | 14:00 - 14:35   | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>TBD</i> </span>              |  
-| 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
+| 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, and Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
 | 15:00 - 15:30   | <span class="p-invited">Break</span> | 
-| 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, **Erkka Haapasalo**, Marco Tomamichel, Frits Verhagen<br /><i>Asymptotic and catalytic majorization</i>          |
+| 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, and **Frits Verhagen**<br /><i>Asymptotic and catalytic majorization</i>          |
 | 15:55 - 16:30   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i>          |
 | 16:30 - 17:00   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i>               |
 | 17:00 - 17:30   | <span class="p-invited"><b>Open problem session</b></span>        |
