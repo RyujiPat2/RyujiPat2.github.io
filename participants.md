@@ -90,6 +90,7 @@ order: 4
 * **Tobias	Haug**,	TII
 * **Tomohiro	Shitara**,	NTT Computer and Data Science Laboratories
 * **Varun	Narasimhachar**,	A*Star
+* **Valerio	Scarani**, CQT, NUS
 * **Xiao	Yuan**,	Peking University
 * **Xin	Wang**,	Hong Kong University of Science an Technology (Guangzhou)
 * **Xiufan	Li**,	Centre for Quantum Technologies, National University of Singapore
