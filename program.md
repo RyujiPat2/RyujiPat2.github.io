@@ -45,7 +45,7 @@ order: 2
 | 12:20 - 12:45 | **Yunlong Xiao**, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu <br /><i>Quantum Uncertainty Principles for Measurements with Interventions</i>               |
 | 12:45 - 12:55 | <span class="p-invited">Group photos</span>           |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>           |
-| 14:00 - 14:35 |  <span class="p-contrib"><b>David Gosset</b><br /><i>TBD</i></span>           |
+| 14:00 - 14:35 |  <span class="p-contrib"><b>David Gosset</b><br /><i>Stabilizer rank simulators</i></span>           |
 | 14:35 - 15:00 | Nicole Yunger Halpern, Anthony Munson, Naga Teja Bhavia Kothakonda, Jonas Haferkamp, Jens Eisert, and **Philippe Faist**<br /><i>Resource theory of quantum complexity with applications to quantum thermodynamics</i>     |
 | 15:00 - 15:30 | <span class="p-invited">Break</span> |
 | 15:30 - 15:55 | **Tobias Haug** and Lorenzo Piroli<br /><i>Stabilizer entropies and nonstabilizerness monotones</i>            |
