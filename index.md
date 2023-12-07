@@ -81,7 +81,7 @@ Please contact <a href="mailto:ryujitakagi.pat@gmail.com">ryujitakagi.pat@gmail.
 ## Sponsor
 
 The workshop is sponsored by Nanyang Technological University.<br /><a href="http://ntu.edu.sg"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/10/nanyang-technological-university-ntu-vector-logo.png" width="400px" /></a>
-<img src="Astar.png" width="400px" />
+  <img src="Astar.png" width="400px" /><br />
 We acknowledge the support of the NTU <a href="https://www.ntu.edu.sg/research/research-careers">Talent Recruitment and Career Support (TRACS) Office</a> through the <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)">Lee Kuan Yew Postdoctoral Fellowship</a> funding, as well as the support of the NTU <a href="https://www.ntu.edu.sg/ias">Institute of Advanced Studies</a>.
 We also acknowledge the support of <a href="https://www.a-star.edu.sg/">Agency for Science, Technology, and Research (A*STAR)</a>.
 
