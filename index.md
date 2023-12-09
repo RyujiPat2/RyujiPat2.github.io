@@ -82,13 +82,17 @@ Please contact <a href="mailto:ryujitakagi.pat@gmail.com">ryujitakagi.pat@gmail.
 
 The workshop is sponsored by Nanyang Technological University.<br />
 <p align="left">
-<img src="https://vectorlogoseek.com/wp-content/uploads/2019/10/nanyang-technological-university-ntu-vector-logo.png" width="200" /> &nbsp; <img src="Astar.png" width="200" />
+<img src="https://vectorlogoseek.com/wp-content/uploads/2019/10/nanyang-technological-university-ntu-vector-logo.png" width="300" /> 
 </p> 
 
 <!-- <a href="http://ntu.edu.sg"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/10/nanyang-technological-university-ntu-vector-logo.png" width="400px" /></a>  <img src="Astar.png" width="=200px" /><br />-->
 
 We acknowledge the support of the NTU <a href="https://www.ntu.edu.sg/research/research-careers">Talent Recruitment and Career Support (TRACS) Office</a> through the <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)">Lee Kuan Yew Postdoctoral Fellowship</a> funding, as well as the support of the NTU <a href="https://www.ntu.edu.sg/ias">Institute of Advanced Studies</a>.
 We also acknowledge the support of <a href="https://www.a-star.edu.sg/">Agency for Science, Technology, and Research (A*STAR)</a>.
+
+<p align="left">
+<img src="Astar.png" width="200" />
+</p> 
 
 <!-- We also thank Horizon Quantum Computing for the support.<br /><br />
 <a href="https://www.horizonquantum.com"><img src="/horizon.png" width="300px" /></a> -->
