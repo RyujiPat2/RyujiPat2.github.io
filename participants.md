@@ -56,6 +56,7 @@ order: 4
 * **Kelvin	Onggadinata**,	Centre for Quantum Technologies
 * **Kishor	Bharti**,	A*Star
 * **Kohdai Kuroiwa**, University of Waterloo
+* **Kyunghyun	Baek**, Electronics and Telecommunications Research Institute
 * **Lea	Lautenbacher**,	Ulm University
 * **Lorcan	Conlon**,	IMRE, ASTAR
 * **Lucky	Antonopoulos**,	RMIT University
