@@ -81,7 +81,7 @@ Please contact <a href="mailto:ryujitakagi.pat@gmail.com">ryujitakagi.pat@gmail.
 ## Sponsor
 
 The workshop is sponsored by Nanyang Technological University.<br />
-<p align="middle">
+<p align="left">
 <img src="https://vectorlogoseek.com/wp-content/uploads/2019/10/nanyang-technological-university-ntu-vector-logo.png" width="200" /> &nbsp; <img src="Astar.png" width="200" />
 </p> 
 
