@@ -29,8 +29,8 @@ order: 2
 | 14:35 - 15:00 |  **Guedong Park**, Hyukjoon Kwon, and Hyunseok Jeong<br /><i>Extending Classically Simulatable Bounds of Clifford Circuits with Nonstabilizer States via Framed Wigner Functions</i>    |
 | 15:00 - 15:30 | <span class="p-invited">Break</span>                         |
 | 15:30 - 15:55 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>                          |
-| 15:55 - 16:30 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>                                            |
-| 16:30 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
+| 15:55 - 16:20 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>                                            |
+| 16:20 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
 
 
 ## Tuesday 12 December
@@ -49,8 +49,8 @@ order: 2
 | 14:35 - 15:00 | Nicole Yunger Halpern, Anthony Munson, Naga Teja Bhavia Kothakonda, Jonas Haferkamp, Jens Eisert, and **Philippe Faist**<br /><i>Resource theory of quantum complexity with applications to quantum thermodynamics</i>     |
 | 15:00 - 15:30 | <span class="p-invited">Break</span> |
 | 15:30 - 15:55 | **Tobias Haug** and Lorenzo Piroli<br /><i>Stabilizer entropies and nonstabilizerness monotones</i>            |
-| 15:55 - 16:30 | Tobias Haug, **Soovin Lee**, and M.S. Kim<br /><i>Efficient stabilizer entropies for quantum computers</i>             |
-| 16:30 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
+| 15:55 - 16:20 | Tobias Haug, **Soovin Lee**, and M.S. Kim<br /><i>Efficient stabilizer entropies for quantum computers</i>             |
+| 16:20 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
 
 
 
@@ -84,10 +84,10 @@ order: 2
 | 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, and Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
 | 15:00 - 15:30   | <span class="p-invited">Break</span> | 
 | 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, and **Frits Verhagen**<br /><i>Asymptotic and catalytic majorization</i>          |
-| 15:55 - 16:30   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i>          |
-| 16:30 - 17:00   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i>               |
-| 17:00 - 17:30   | <span class="p-invited"><b>Open problem session</b></span>        |
-| 17:30 - 18:30   | <span class="p-invited">Discussions</span> | 
+| 15:55 - 16:20   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i>          |
+| 16:20 - 16:45   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i>               |
+| 16:45 - 17:15   | <span class="p-invited"><b>Open problem session</b></span>        |
+| 17:15 - 18:30   | <span class="p-invited">Discussions</span> | 
 
 
 
@@ -106,8 +106,8 @@ order: 2
 | 14:35 - 15:00  | **Alexander Streltsov** <br /><i>Multipartite entanglement theory with entanglement-nonincreasing operations</i>         |
 | 15:00 - 15:30  | <span class="p-invited">Break and discussions</span>        |
 | 15:30 - 15:55  | **Zishi Chen** and Xueyuan Hu<br /><i>Resource theory of dephasing estimation in multiqubit systems</i>    |
-| 15:55 - 16:30  | **Felix Ahnefeld**, Thomas Theurer, Martin B. Plenio<br /><i>Coherence in phase estimation</i>    |
-| 16:30 - 16:40  | <span class="p-invited">Closing </span>         |
+| 15:55 - 16:20  | **Felix Ahnefeld**, Thomas Theurer, Martin B. Plenio<br /><i>Coherence in phase estimation</i>    |
+| 16:20 - 16:30  | <span class="p-invited">Closing </span>         |
 
 
 
