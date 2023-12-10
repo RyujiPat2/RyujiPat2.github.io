@@ -40,6 +40,7 @@ order: 4
 * **Graeme	Berk**,	NTU
 * **Guedong	Park**,	Seoul National University, South Korea
 * **Hanlin	Nie**,	CQT
+* **Haochen Li**, NTU
 * **Henrik	Wilming**,	Leibniz Universität Hannover
 * **Hironari	Nagayoshi**,	The University of Tokyo
 * **Hyukjoon	Kwon**,	Korea Institute for Advanced Study
@@ -59,6 +60,7 @@ order: 4
 * **Kyunghyun	Baek**, Electronics and Telecommunications Research Institute
 * **Lea	Lautenbacher**,	Ulm University
 * **Lorcan	Conlon**,	IMRE, ASTAR
+* **Lucas Voss**, Ulm University
 * **Lucky	Antonopoulos**,	RMIT University
 * **Marcin	Wieśniak**,	University of Gdańsk
 * **Marco	Tomamichel**,	NUS
