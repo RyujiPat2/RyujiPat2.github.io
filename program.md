@@ -23,7 +23,7 @@ order: 2
 | 11:00 - 11:30 | <span class="p-invited">Break</span>                            |
 | 11:30 - 12:05 | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i></span>                      |
 | 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>                     |
-| 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>Resource Theories and Noise Reduction</i>                             |
+| 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>"Concave" resource theories? </i>                             |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
 | 14:00 - 14:35 | <span class="p-contrib"><b>Robert Raussendorf</b><br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i></span>                       |
 | 14:35 - 15:00 |  **Guedong Park**, Hyukjoon Kwon, and Hyunseok Jeong<br /><i>Extending Classically Simulatable Bounds of Clifford Circuits with Nonstabilizer States via Framed Wigner Functions</i>    |
