@@ -93,7 +93,7 @@ order: 2
 | 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite commutative groups</i>  |
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
 || *Chair: Marco Tomamichel* |
-| 14:00 - 14:35   | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>TBD</i> </span>              |  
+| 14:00 - 14:35   | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>Quantum Batteries (an apology)</i> </span>              |  
 | 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, and Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
 | 15:00 - 15:30   | <span class="p-invited">Break</span> | 
 || *Chair: Naoto Shiraishi* |
