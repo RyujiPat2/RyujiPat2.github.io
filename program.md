@@ -96,6 +96,7 @@ order: 2
 | 14:00 - 14:35   | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>TBD</i> </span>              |  
 | 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, and Valerio Scarani<br /><i>Observational entropy with general quantum priors</i>             |
 | 15:00 - 15:30   | <span class="p-invited">Break</span> | 
+|| *Chair: Naoto Shiraishi* |
 | 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, and **Frits Verhagen**<br /><i>Asymptotic and catalytic majorization</i>          |
 | 15:55 - 16:20   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i>          |
 | 16:20 - 16:45   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i>               |
