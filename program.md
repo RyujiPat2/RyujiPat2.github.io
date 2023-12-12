@@ -77,7 +77,7 @@ order: 2
 | 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>The coherent measurement cost of coherence distillation</i>        |
 | 12:55 - 14:00  | <span class="p-invited">Lunch</span>      |
 | 14:00 - 18:00  | <span class="p-invited">Discussions, free time</span>     |
-| 18:00 -   | <span class="p-invited"><b>Conference dinner</b> (<a href="https://singapore.oso.sg/">OSO Ristorante</a>, 27th floor of <a href="https://maps.app.goo.gl/8JU3ZgCXGpXNZCPF9">Oasia hotel</a>)</span>     |
+| 18:00 -   | <span class="p-invited"><b>Conference dinner</b> (<a href="https://singapore.oso.sg/">OSO Ristorante</a>, 27th floor of <a href="https://maps.app.goo.gl/RDgatSGYPHjoTm7FA">Oasia hotel</a>)</span>     |
 
 
 ## Thursday 14 December
