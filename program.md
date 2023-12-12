@@ -4,6 +4,7 @@ title: Program
 order: 2
 ---
 
+- To connect to Zoom, click [here](https://u-tokyo-ac-jp.zoom.us/j/87428658359?pwd=AwUBOvcq4gzfEaeSa3dZOW2Zr7zx6v.1)
 - All talks take place in the Ballroom of Amara Hotel, located on the second floor (just across the hotel check-in counters).
 - Poster sessions take place on Monday and Tuesday. All posters will be presented on both days.
 - Coffee breaks and registration take place in the foyer just outside the Ballroom.
