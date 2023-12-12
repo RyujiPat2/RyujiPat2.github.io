@@ -9,7 +9,7 @@ order: 2
 - Poster sessions take place on Monday and Tuesday. All posters will be presented on both days.
 - Coffee breaks and registration take place in the foyer just outside the Ballroom.
 - Lunches are served at Element restaurant located on the first floor of the hotel.
-- The conference dinner will take place on Wednesday at OSO Ristorante, located on the 27th floor of Oasia hotel (1 min walk from Amara hotel) (<a href="https://maps.app.goo.gl/8JU3ZgCXGpXNZCPF9">100 Peck Seah St, Singapore 079333</a>). 
+- The conference dinner will take place on Wednesday at <a href="https://singapore.oso.sg/">OSO Ristorante</a>, located on the 27th floor of Oasia hotel (1 min walk from Amara hotel) (<a href="https://maps.app.goo.gl/8JU3ZgCXGpXNZCPF9">100 Peck Seah St, Singapore 079333</a>). 
 
 
 ## Monday 11 December
