@@ -102,7 +102,7 @@ order: 2
 | 15:55 - 16:20   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i>          |
 | 16:20 - 16:45   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i>               |
 | 16:45 - 17:15   | <span class="p-invited"><b>Open problem session</b></span>        |
-| 17:15 - 18:30   | <span class="p-invited">Discussions</span> | 
+| 17:15 - 18:30   | <span class="p-invited">Discussions/Walking tour (meet in front of the Ballroom at 17:35)</span> | 
 
 
 
