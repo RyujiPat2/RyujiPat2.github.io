@@ -124,7 +124,7 @@ order: 2
 | 14:35 - 15:00  | **Alexander Streltsov** <br /><i>Multipartite entanglement theory with entanglement-nonincreasing operations</i>         |
 | 15:00 - 15:30  | <span class="p-invited">Break and discussions</span>        |
 || *Chair: Hyukjoon Kwon* |
-| 15:30 - 15:55  | **Zishi Chen** and Xueyuan Hu<br /><i>Resource theory of dephasing estimation in multiqubit systems</i>    |
+| 15:30 - 15:55  | Zishi Chen and **Xueyuan Hu**<br /><i>Resource theory of dephasing estimation in multiqubit systems</i>    |
 | 15:55 - 16:20  | **Felix Ahnefeld**, Thomas Theurer, Martin B. Plenio<br /><i>Coherence in phase estimation</i>    |
 | 16:20 - 16:30  | <span class="p-invited">Closing </span>         |
 
