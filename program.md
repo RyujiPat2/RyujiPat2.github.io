@@ -23,7 +23,7 @@ order: 2
 | 9:50 - 10:00   | <span class="p-invited">Opening (Ryuji Takagi)</span>     |
 || *Chair: Ryuji Takagi* |
 | 10:00 - 10:35  | <span class="p-contrib"><b>Bartosz Regula</b><br /><i>On reversibility of quantum resources</i> <a href="https://youtu.be/ywH07ehpjE4?si=udxnEm2KLUs3pq9h">&nbsp;[recording]</a> </span>                     |
-| 10:35 - 11:00 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>  <a href="\https://youtu.be/3fTw_M70Q38?si=p-xGXBmLPvBnfMoU">&nbsp;[recording]</a>                         |
+| 10:35 - 11:00 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>  <a href="https://youtu.be/3fTw_M70Q38?si=p-xGXBmLPvBnfMoU">&nbsp;[recording]</a>                         |
 | 11:00 - 11:30 | <span class="p-invited">Break</span>                            |
 || *Chair: Varun Narasimhachar* |
 | 11:30 - 12:05 | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i> <a href="https://youtu.be/_CiIxCKCsOA?si=Az4DlbsaQsa6dWvB">&nbsp;[recording]</a> </span>                      |
