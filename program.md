@@ -4,7 +4,7 @@ title: Program
 order: 2
 ---
 
-[Merlina Bay](/marina_bay.jpg)
+![Merlina Bay](/marina_bay.jpg)
 
 <!--
 - All talks take place in the Ballroom of Amara Hotel, located on the second floor (just across the hotel check-in counters).
