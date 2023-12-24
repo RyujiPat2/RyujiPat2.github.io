@@ -23,20 +23,20 @@ order: 2
 | 9:50 - 10:00   | <span class="p-invited">Opening (Ryuji Takagi)</span>     |
 || *Chair: Ryuji Takagi* |
 | 10:00 - 10:35  | <span class="p-contrib"><b>Bartosz Regula</b><br /><i>On reversibility of quantum resources</i> <a href="https://youtu.be/ywH07ehpjE4?si=udxnEm2KLUs3pq9h">&nbsp;[recording]</a> </span>                     |
-| 10:35 - 11:00 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>                           |
+| 10:35 - 11:00 | **Elia Zanoni**, Thomas Theurer, and Gilad Gour<br /><i>Complete Characterization of Entanglement Embezzlement</i>  <a href="\https://youtu.be/3fTw_M70Q38?si=p-xGXBmLPvBnfMoU">&nbsp;[recording]</a>                         |
 | 11:00 - 11:30 | <span class="p-invited">Break</span>                            |
 || *Chair: Varun Narasimhachar* |
-| 11:30 - 12:05 | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i></span>                      |
-| 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>                     |
-| 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>"Concave" resource theories? </i>                             |
+| 11:30 - 12:05 | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i> <a href="https://youtu.be/_CiIxCKCsOA?si=Az4DlbsaQsa6dWvB">&nbsp;[recording]</a> </span>                      |
+| 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>  <a href="https://youtu.be/OQOt-rGbGZM?si=Z-Pf8s2X9WM5TIw-">&nbsp;[recording]</a>                   |
+| 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>"Concave" resource theories? </i>    <a href="https://youtu.be/u01o06k1C9Q?si=4R6_BsqkDgvFUMgd">&nbsp;[recording]</a>                         |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
 || *Chair: Mile Gu* |
-| 14:00 - 14:35 | <span class="p-contrib"><b>Robert Raussendorf</b><br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i></span>                       |
-| 14:35 - 15:00 |  **Guedong Park**, Hyukjoon Kwon, and Hyunseok Jeong<br /><i>Extending Classically Simulatable Bounds of Clifford Circuits with Nonstabilizer States via Framed Wigner Functions</i>    |
+| 14:00 - 14:35 | <span class="p-contrib"><b>Robert Raussendorf</b><br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i> <a href="https://youtu.be/j3thXCHauYw?si=G1DH-RTmfr_mAblM">&nbsp;[recording]</a> </span>                       |
+| 14:35 - 15:00 |  **Guedong Park**, Hyukjoon Kwon, and Hyunseok Jeong<br /><i>Extending Classically Simulatable Bounds of Clifford Circuits with Nonstabilizer States via Framed Wigner Functions</i> <a href="https://youtu.be/5mVFpBB6M0U?si=NwPxmE5Xb_RnXPVK">&nbsp;[recording]</a>   |
 | 15:00 - 15:30 | <span class="p-invited">Break</span>                         |
 || *Chair: Tobias Haug* |
-| 15:30 - 15:55 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>                          |
-| 15:55 - 16:20 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>                                            |
+| 15:30 - 15:55 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>  <a href="https://youtu.be/itnnN02LqIQ?si=dlbyQQuLtJ0mam62">&nbsp;[recording]</a>                        |
+| 15:55 - 16:20 | **Junjie Chen**, Yuxuan Yan, and You Zhou<br /><i>Magic of quantum hypergraph states</i>  <a href="https://youtu.be/I8twEv_BECk?si=TIvgDfgml6v03YIY">&nbsp;[recording]</a>                                          |
 | 16:20 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
 
 
