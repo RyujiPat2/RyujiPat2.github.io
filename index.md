@@ -3,11 +3,9 @@ layout: default
 order: 1
 ---
 
-<!-- ![Marina Bay](https://live.staticflickr.com/8369/8463911183_ea4f26d3d6_c_d.jpg) -->
-<!-- ![Merlion](/merlion.jpg) -->
-<!-- ![Marina Bay Sands](/sands.jpg) -->
-![Merlina Bay](/marina_bay.jpg)
-<!-- ![Group photo](/photo.jpg) -->
+
+<!--![Merlina Bay](/marina_bay.jpg) -->
+![Conference photo](/conference_photo.jpg)
 
 
 ## Quantum Resources 2023
