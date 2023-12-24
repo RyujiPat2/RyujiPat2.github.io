@@ -127,6 +127,7 @@ order: 2
 | 15:30 - 15:55  | Zishi Chen and **Xueyuan Hu**<br /><i>Resource theory of dephasing estimation in multiqubit systems</i>    |
 | 15:55 - 16:20  | **Felix Ahnefeld**, Thomas Theurer, Martin B. Plenio<br /><i>Coherence in phase estimation</i>    |
 | 16:20 - 16:30  | <span class="p-invited">Closing </span>         |
+| 16:30 -   | <span class="p-invited">After party (Ballroom) </span>         |
 
 
 
