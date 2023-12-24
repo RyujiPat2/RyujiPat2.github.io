@@ -14,8 +14,6 @@ order: 2
 - The conference dinner will take place on Wednesday at <a href="https://singapore.oso.sg/">OSO Ristorante</a>, located on the 27th floor of Oasia hotel (1 min walk from Amara hotel) (<a href="https://maps.app.goo.gl/8JU3ZgCXGpXNZCPF9">100 Peck Seah St, Singapore 079333</a>). 
 -->
 
-Recordings of the talks are available on our <a href="https://www.youtube.com/@QuantumResources/featured">YouTube channel</a>. 
-
 ## Monday 11 December
 
 
