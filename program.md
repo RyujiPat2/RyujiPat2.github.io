@@ -91,7 +91,7 @@ order: 2
 || *Chair: Henrik Wilming* |
 | 11:30 - 11:55   | Tulja Varun Kondra, **Ray Ganardi**, and Alexander Streltsov<br /><i>Coherence manipulation in asymmetry and thermodynamics</i>           |
 | 11:55 - 12:20   | **Naoto Shiraishi** and Ryuji Takagi<br /><i>Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation</i>             |
-| 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite commutative groups</i>  |
+| 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite groups</i>  |
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
 || *Chair: Marco Tomamichel* |
 | 14:00 - 14:35   | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>Quantum Batteries (an apology)</i> </span>              |  
