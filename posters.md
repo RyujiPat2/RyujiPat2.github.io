@@ -29,7 +29,7 @@ Poster sessions take place on Monday and Tuesday in the foyer just outside the B
 * **Resource-dependent complexity of quantum channels** &mdash; Roy Araiza, Yidong Chen, Marius Junge and Peixue Wu 
 * **The relative entropy of coherence quantifies performance in Bayesian estimation** &mdash; Ruvi Lecamwasam, Syed Assad, Joseph Hope, Ping Koy Lam, Jayne Thompson, Mile Gu
 * **Deciding infeasibility of optical state generation** &mdash; Ryan Marshman, Deepesh Singh, and Nora Tischler
-* **Characterizing resource states and efficient regimes of measurement-based quantum computation on NISQ devices** &mdash; Ryohei Weil, Arnab Adhikary, Dmytro Bondarenko, Amritabha Guha, Robert Raussendorf
+* **Characterizing resource states and efficient regimes of measurement-based quantum computation on NISQ devices** &mdash; Ryohei Weil, Arnab Adhikary, Dmytro Bondarenko, Amritabha Guha, Robert Raussendorf<a href="https://drive.google.com/file/d/1tzo-n3M1UdNO9L4tZuks_z9UO2wvYFZD/view?usp=sharing">&nbsp;[poster]</a>
 * **Efficient Classical Simulation of the DQC1 Circuit with Zero Discord** &mdash; Shalin Jose, A. K. Sairam, Anil Shaji
 * **Quantum State Data Structures** &mdash; Shashvat Shukla
 * **Causal Asymmetry of Classical and Quantum Agents** &mdash; Spiros Kechrimparis, Mile Gu, Hyukjoon Kwon
