@@ -28,7 +28,7 @@ order: 2
 || *Chair: Varun Narasimhachar* |
 | 11:30 - 12:05 | <span class="p-contrib"><b>Henrik Wilming</b><br /><i>Universal embezzlers</i> <a href="https://youtu.be/_CiIxCKCsOA?si=Az4DlbsaQsa6dWvB">&nbsp;[recording]</a> </span>                      |
 | 12:05 - 12:30 | Tobias Haug, **Kishor Bharti**, and Dax Koh<br /><i>Pseudorandom unitaries are neither real nor sparse nor noise-robust</i>  <a href="https://youtu.be/OQOt-rGbGZM?si=Z-Pf8s2X9WM5TIw-">&nbsp;[recording]</a>                   |
-| 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>"Concave" resource theories? </i>    <a href="https://youtu.be/u01o06k1C9Q?si=4R6_BsqkDgvFUMgd">&nbsp;[recording]</a>                         |
+| 12:30 - 12:55 | **Seok Hyung Lie** and Hyunseok Jeong<br /><i>"Concave" resource theories? </i>                           |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
 || *Chair: Mile Gu* |
 | 14:00 - 14:35 | <span class="p-contrib"><b>Robert Raussendorf</b><br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i> <a href="https://youtu.be/j3thXCHauYw?si=G1DH-RTmfr_mAblM">&nbsp;[recording]</a> </span>                       |
