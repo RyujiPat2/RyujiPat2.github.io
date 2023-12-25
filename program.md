@@ -59,7 +59,7 @@ order: 2
 | 14:35 - 15:00 | Nicole Yunger Halpern, Anthony Munson, Naga Teja Bhavia Kothakonda, Jonas Haferkamp, Jens Eisert, and **Philippe Faist**<br /><i>Resource theory of quantum complexity with applications to quantum thermodynamics</i><a href="https://youtu.be/uBWJH1Pdldg?si=EDQprWUN7AG5xwGt">&nbsp;[recording]</a>     |
 | 15:00 - 15:30 | <span class="p-invited">Break</span> |
 || *Chair: Xin Wang* |
-| 15:30 - 15:55 | **Tobias Haug** and Lorenzo Piroli<br /><i>Stabilizer entropies and nonstabilizerness monotones</i> <a href="https://youtu.be/QXLOUP9Xiho?si=QvRdBv8CC9y68QUg">&nbsp;[recording]</a>           |
+| 15:30 - 15:55 | **Tobias Haug** and Lorenzo Piroli<br /><i>Stabilizer entropies and nonstabilizerness monotones</i> <a href="https://youtu.be/QXLOUP9Xiho?si=QvRdBv8CC9y68QUg">&nbsp;[recording]</a> <a href="https://drive.google.com/file/d/1KeONwU-oKxwT0FT4-DIT-v-KahtTymB8/view?usp=sharing">&nbsp;[slides]</a>           |
 | 15:55 - 16:20 | Tobias Haug, **Soovin Lee**, and M.S. Kim<br /><i>Efficient stabilizer entropies for quantum computers</i> <a href="https://youtu.be/MsSMI8B9qJU?si=6p_SVNmy64CYTDHU">&nbsp;[recording]</a>            |
 | 16:20 - 18:30 | <span class="p-invited"><b>Poster session and discussions</b></span> |
 
