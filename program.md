@@ -76,7 +76,7 @@ order: 2
 || *Chair: Alexander Streltsov* |
 | 11:30 - 12:05  | <span class="p-contrib"><b>Xiao Yuan</b><br /><i>Virtual quantum resource distillation</i><a href="https://youtu.be/9JK8YIa1Fgs?si=EQzkQcyzCdROkkqH">&nbsp;[recording]</a></span>        |
 | 12:05 - 12:30  | **Benjamin Jones**, Paul Skrzypczyk, and Noah Linden <br /><i>Hadamard gate cannot be replaced by a resource state in universal quantum computation</i><a href="https://youtu.be/gIj-9g7grjQ?si=8GdOErw6KTx2FjLh">&nbsp;[recording]</a>     |
-| 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>Hidden costs of coherence distillation</i> <a href="https://youtu.be/16-eglwsxX8?si=w_JC0fSavPIWmU6I">&nbsp;[recording]</a>       |
+| 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>Hidden costs of coherence distillation</i> <a href="https://youtu.be/16-eglwsxX8?si=w_JC0fSavPIWmU6I">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1_DNNCRiO5GJ0kDXwZ2GVY9ACQ2ZLRC4a/view?usp=sharing">&nbsp;[slides]</a>       |
 | 12:55 - 14:00  | <span class="p-invited">Lunch</span>      |
 | 14:00 - 18:00  | <span class="p-invited">Discussions, free time</span>     |
 | 18:00 -   | <span class="p-invited"><b>Conference dinner</b> (<a href="https://singapore.oso.sg/">OSO Ristorante</a>, 27th floor of <a href="https://maps.app.goo.gl/RDgatSGYPHjoTm7FA">Oasia hotel</a>)</span>     |
