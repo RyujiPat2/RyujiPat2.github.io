@@ -92,7 +92,7 @@ order: 2
 | 11:00 - 11:30   | <span class="p-invited">Break</span>            |
 || *Chair: Henrik Wilming* |
 | 11:30 - 11:55   | Tulja Varun Kondra, **Ray Ganardi**, and Alexander Streltsov<br /><i>Coherence manipulation in asymmetry and thermodynamics</i><a href="https://youtu.be/TABXnkl7iLI?si=ykDwdGVlsziTDLYy">&nbsp;[recording]</a>           |
-| 11:55 - 12:20   | **Naoto Shiraishi** and Ryuji Takagi<br /><i>Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation</i><a href="https://youtu.be/pMVLvUaiN_0?si=diESBZIc8BHnKzoA">&nbsp;[recording]</a>             |
+| 11:55 - 12:20   | **Naoto Shiraishi** and Ryuji Takagi<br /><i>Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation</i><a href="https://youtu.be/pMVLvUaiN_0?si=diESBZIc8BHnKzoA">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1UIRdPA8eUsWoMD24qJ7emAisZryR5Yn9/view?usp=sharing">&nbsp;[slides]</a>             |
 | 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite groups</i><a href="https://youtu.be/cGGkdC9MXi8?si=9a0PqvOLs-khAKyh">&nbsp;[recording]</a>  |
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
 || *Chair: Marco Tomamichel* |
