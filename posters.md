@@ -35,7 +35,8 @@ Poster sessions take place on Monday and Tuesday in the foyer just outside the B
 * **Causal Asymmetry of Classical and Quantum Agents** &mdash; Spiros Kechrimparis, Mile Gu, Hyukjoon Kwon
 * **Absolute fully entangled fraction from spectrum** &mdash; Tapaswini Patro, Kaushiki Mukherjee, Mohd Asad Siddiqui, Indranil Chakrabarty, and Nirman Ganguly
 * **Cooling and work extraction under memory assisted Markovian thermal processes** &mdash; Yuancheng Liu, Xueyuan Hu
-* **Noise effects on purity and quantum entanglement in terms of physical implementability** &mdash; Yuchen Guo and Shuo Yang
-* **Scalable Quantum State Tomography with Locally Purified Density Operators and Local Measurements** &mdash; Yuchen Guo, Shuo Yang
+* **Noise effects on purity and quantum entanglement in terms of physical implementability** &mdash; Yuchen Guo and Shuo Yang<a href="https://drive.google.com/file/d/1WhdubZxgfmswCkY0bi1gvWuYEYbcvPUu/view?usp=sharing">&nbsp;[poster]</a>
+* **Scalable Quantum State Tomography with Locally Purified Density Operators and Local Measurements** &mdash; Yuchen Guo, Shuo Yang<a href="https://drive.google.com/file/d/1dqApjVQKatW4eGPB_0gpgmoR2FdEaJj6/view?usp=sharing">&nbsp;[poster]</a>
+* **Locally purified density operators for noisy quantum circuits** &mdash; Yuchen Guo, Shuo Yang<a href="https://drive.google.com/file/d/1nOc5dkCet5wg9RTE4Q8xmx3bb6fbdT4C/view?usp=sharing">&nbsp;[poster]</a>
 * **Applicability of Measurement-based Quantum Computation towards Physically-driven Variational Quantum Eigensolver** &mdash; Zheng Qin, Xiufan Li, Yang Zhou, Shikun Zhang, Rui Li, Chunxiao Du, Zhisong Xiao
 * **The spatiotemporal doubled density operator: a unified framework for analyzing spatial and temporal quantum processes** &mdash; Zhian Jia, Dagomir Kaszlikowski
