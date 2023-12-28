@@ -101,7 +101,7 @@ order: 2
 | 15:00 - 15:30   | <span class="p-invited">Break</span> | 
 || *Chair: Naoto Shiraishi* |
 | 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, and **Frits Verhagen**<br /><i>Asymptotic and catalytic majorization</i> <a href="https://youtu.be/FNbOSP8L29M?si=Zmh8Tg30p6sQ8G6Y">&nbsp;[recording]</a>         |
-| 15:55 - 16:20   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i> <a href="https://youtu.be/w7axE50mrM4?si=P_Nu76Ne-MQSJUqi">&nbsp;[recording]</a>         |
+| 15:55 - 16:20   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i> <a href="https://youtu.be/w7axE50mrM4?si=P_Nu76Ne-MQSJUqi">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1rem3ekqDtaoY7vie_-jODN9Iy4BQhoFs/view?usp=sharing">&nbsp;[slides]</a>         |
 | 16:20 - 16:45   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i> <a href="https://youtu.be/cWRhivAdSjk?si=q_tzIyBTKY-lXXLY">&nbsp;[recording]</a>              |
 | 16:45 - 17:15   | <span class="p-invited"><b>Open problem session</b><a href="https://youtu.be/itnnN02LqIQ?si=dlbyQQuLtJ0mam62">&nbsp;[recording]</a></span>        |
 | 17:15 - 18:30   | <span class="p-invited">Discussions / Walking tour (meet in front of the Ballroom at 17:35)</span> | 
@@ -114,7 +114,7 @@ order: 2
 |--- |--- |
 || *Chair: Felix Binder* |
 | 10:00 - 10:35    | <span class="p-contrib"><b>Martin Plenio</b><br /><i>The Thermodynamic Costs of Pure Dephasing in Quantum Heat Engines: Quasistatic Efficiency at Finite Power</i><a href="https://youtu.be/YUifIRit4y4?si=ELa7e5RIQk-gbaYD">&nbsp;[recording]</a></span>              |
-| 10:35 - 11:00  | **Florian Meier** and Hayata Yamasaki<br /><i>Energy-Consumption Advantage of Quantum Computation</i><a href="https://youtu.be/SB2aWZkABT0?si=eTcPTAocC3dW65Xr">&nbsp;[recording]</a> |
+| 10:35 - 11:00  | **Florian Meier** and Hayata Yamasaki<br /><i>Energy-Consumption Advantage of Quantum Computation</i><a href="https://youtu.be/SB2aWZkABT0?si=eTcPTAocC3dW65Xr">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1qXdD4T5VQ5NfJr0Aul7t8HuUNmTD-d_h/view?usp=sharing">&nbsp;[slides]</a> |
 | 11:00 - 11:30  | <span class="p-invited">Break</span>    |
 || *Chair: Thomas Theurer* |
 | 11:30 - 11:55  | **Marcin Wieśniak**, Palash Pandya, Omer Sakarya, Bianka Wołoncewicz, Miro Consiglio, and Tony Apollaro<br /><i>Detecting entanglement by solving a quadratic equation</i><a href="https://youtu.be/A1RnKw8r1O8?si=M1Agty49FQLLn1Ca">&nbsp;[recording]</a>        |
