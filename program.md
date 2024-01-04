@@ -50,7 +50,7 @@ order: 2
 | 11:00 - 11:30 | <span class="p-invited">Break</span>              |
 || *Chair: Graeme Berk* |
 | 11:30 - 11:55 | Huan-Yu Ku, **Chung-Yun Hsieh**, Shin-Liang Chen, Yueh-Nan Chen, and Costantino Budroni<br /><i>Can we stochastically distill quantum steering and measurement incompatibility?</i> <a href="https://youtu.be/45DAv6cbrQs?si=O_w4QCCEQoHSMi1F">&nbsp;[recording]</a>             |
-| 11:55 - 12:20 | **Kohdai Kuroiwa**, Ryuji Takagi, Gerardo Adesso, and Hayata Yamasaki<br /><i>Every quantum helps:  Operational advantage of quantum resources beyond convexity</i><a href="https://youtu.be/o4q1T0cG65Q?si=RYf6fCThCfeGNfMh">&nbsp;[recording]</a>             |
+| 11:55 - 12:20 | **Kohdai Kuroiwa**, Ryuji Takagi, Gerardo Adesso, and Hayata Yamasaki<br /><i>Every quantum helps:  Operational advantage of quantum resources beyond convexity</i><a href="https://youtu.be/o4q1T0cG65Q?si=RYf6fCThCfeGNfMh">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1gRX7wZ8te90zbtYfRc7JdAdAXoRsIjpz/view?usp=sharing">&nbsp;[slides]</a>             |
 | 12:20 - 12:45 | **Yunlong Xiao**, Yuxiang Yang, Ximing Wang, Qing Liu, and Mile Gu <br /><i>Quantum Uncertainty Principles for Measurements with Interventions</i> <a href="https://youtu.be/T7fRkYyxFV0?si=rEclyZ-CWURpJqx-">&nbsp;[recording]</a>              |
 | 12:45 - 12:55 | <span class="p-invited">Group photos</span>           |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>           |
