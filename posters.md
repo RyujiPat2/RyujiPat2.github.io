@@ -17,7 +17,7 @@ Poster sessions take place on Monday and Tuesday in the foyer just outside the B
 * **Designer Bell states and quantum-cryptography via single-particle quantum walks** &mdash; Dinesh Kumar Panda and Colin Benjamin
 * **Estimation of Gaussian random displacement using non-Gaussian states** &mdash; Fumiya Hanamura, Warit Asavanant, Kosuke Fukui, Shunya Konno, and Akira Furusawa
 * **Resource-theoretical approach to the thermodynamics of an ion chain** &mdash; Giovanni Spaventa, Lea Lautenbacher, Moritz Göb, Kilian Singer, Susana F. Huelga and Martin B. Plenio
-* **On the connection between reversibility and the generalized quantum Stein's lemma** &mdash; Goni Yoeli, Gilad Gour
+* **On the connection between reversibility and the generalized quantum Stein's lemma** &mdash; Goni Yoeli, Gilad Gour<a href="https://drive.google.com/file/d/13_SSskjDWkfnhRtwTuAH0yiCf1-IWZNr/view?usp=sharing">&nbsp;[poster]</a>
 * **Diagrammatic Characterization of Gaussian and non-Gaussian Processes Based on Generalization of ZX-calculus** &mdash; Hironari Nagayoshi, Warit Asavanant, Ryuhoh Ide, Akira Furusawa
 * **Complexity of frustration: a new source of non-local non-stabilizerness** &mdash; J. Odavić, T. Haug, G. Torre, A. Hamma, F. Franchini, S. M. Giampaolo
 * **Universal Landauer-Like Inequality from the First Law of Thermodynamics** &mdash; Junjie Liu, Hanlin Nie
