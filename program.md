@@ -32,7 +32,7 @@ order: 2
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>                        |
 || *Chair: Mile Gu* |
 | 14:00 - 14:35 | <span class="p-contrib"><b>Robert Raussendorf</b><br /><i>Is negativity in quasiprobability functions necessary for universal quantum computation with magic states?</i> <a href="https://youtu.be/j3thXCHauYw?si=G1DH-RTmfr_mAblM">&nbsp;[recording]</a> </span>                       |
-| 14:35 - 15:00 |  **Guedong Park**, Hyukjoon Kwon, and Hyunseok Jeong<br /><i>Extending Classically Simulatable Bounds of Clifford Circuits with Nonstabilizer States via Framed Wigner Functions</i> <a href="https://youtu.be/5mVFpBB6M0U?si=NwPxmE5Xb_RnXPVK">&nbsp;[recording]</a>   |
+| 14:35 - 15:00 |  **Guedong Park**, Hyukjoon Kwon, and Hyunseok Jeong<br /><i>Extending Classically Simulatable Bounds of Clifford Circuits with Nonstabilizer States via Framed Wigner Functions</i> <a href="https://youtu.be/5mVFpBB6M0U?si=NwPxmE5Xb_RnXPVK">&nbsp;[recording]</a><a href="https://docs.google.com/presentation/d/10jTbNNM76VptCDRS450T2gDb5C_R5Wn2/edit?usp=sharing&ouid=103245623541139670633&rtpof=true&sd=true">&nbsp;[slides]</a>   |
 | 15:00 - 15:30 | <span class="p-invited">Break</span>                         |
 || *Chair: Tobias Haug* |
 | 15:30 - 15:55 | **Roberto Rubboli**, Ryuji Takagi, and Marco Tomamichel<br /><i>Mixed-state additivity properties of magic monotones based on quantum relative entropies for single-qubit states and beyond</i>  <a href="https://youtu.be/itnnN02LqIQ?si=dlbyQQuLtJ0mam62">&nbsp;[recording]</a>                        |
