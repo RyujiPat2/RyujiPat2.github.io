@@ -23,7 +23,7 @@ Poster sessions take place on Monday and Tuesday in the foyer just outside the B
 * **Universal Landauer-Like Inequality from the First Law of Thermodynamics** &mdash; Junjie Liu, Hanlin Nie
 * **Robustness measures for quantifying nonlocality** &mdash; Kyunghyun Baek, Junghee Ryu, Jinhyoung Lee<a href="https://drive.google.com/file/d/1tkeiThdcnWzOWRiHso8TRkPTioEeeIYu/view?usp=sharing">&nbsp;[poster]</a>
 * **Approaching optimal entangling collective measurements on quantum computing platforms** &mdash; Lorcan Conlon, Ping Koy Lam, Syed Assad
-* **Defining discrete Wigner functions from the Gottesman-Kitaev-Preskill code** &mdash; Lucky K. Antonopoulos, Nicolas C. Menicucci
+* **Defining discrete Wigner functions from the Gottesman-Kitaev-Preskill code** &mdash; Lucky K. Antonopoulos, Nicolas C. Menicucci<a href="https://drive.google.com/file/d/1ZVU4Wx1AIIBAe3S0bxo5P2qkltBe6p6s/view?usp=sharing">&nbsp;[poster]</a>
 * **Causal classification of spatiotemporal quantum correlations** &mdash; Minjeong Song, Varun Narasimhachar, Bartosz Regula, Thomas J. Elliott, Mile Gu
 * **Reservoir-free decoherence in flying qubits** &mdash; Nicolò Piccione, Léa Bresque, Andrew N. Jordan, Robert S. Whitney, Alexia Auffèves
 * **Resource-dependent complexity of quantum channels** &mdash; Roy Araiza, Yidong Chen, Marius Junge and Peixue Wu 
