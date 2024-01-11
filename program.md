@@ -113,7 +113,7 @@ order: 2
 | Time | Description |
 |--- |--- |
 || *Chair: Felix Binder* |
-| 10:00 - 10:35    | <span class="p-contrib"><b>Martin Plenio</b><br /><i>The Thermodynamic Costs of Pure Dephasing in Quantum Heat Engines: Quasistatic Efficiency at Finite Power</i><a href="https://youtu.be/YUifIRit4y4?si=ELa7e5RIQk-gbaYD">&nbsp;[recording]</a></span>              |
+| 10:00 - 10:35    | <span class="p-contrib"><b>Martin Plenio</b><br /><i>The Thermodynamic Costs of Pure Dephasing in Quantum Heat Engines: Quasistatic Efficiency at Finite Power</i><a href="https://youtu.be/YUifIRit4y4?si=ELa7e5RIQk-gbaYD">&nbsp;[recording]</a><a href="https://docs.google.com/presentation/d/1wixWuHXFrXbiGJbY10aY4MSMH9DTApwO/edit?usp=sharing&ouid=103245623541139670633&rtpof=true&sd=true">&nbsp;[slides]</a></span>              |
 | 10:35 - 11:00  | **Florian Meier** and Hayata Yamasaki<br /><i>Energy-Consumption Advantage of Quantum Computation</i><a href="https://youtu.be/SB2aWZkABT0?si=eTcPTAocC3dW65Xr">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1qXdD4T5VQ5NfJr0Aul7t8HuUNmTD-d_h/view?usp=sharing">&nbsp;[slides]</a> |
 | 11:00 - 11:30  | <span class="p-invited">Break</span>    |
 || *Chair: Thomas Theurer* |
