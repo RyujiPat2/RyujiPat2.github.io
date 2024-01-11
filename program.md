@@ -91,7 +91,7 @@ order: 2
 | 10:35 - 11:00  | **Jeongrak Son** and Nelly H. Y. Ng<br /><i>A hierarchy of thermal processes collapses under catalysis</i> <a href="https://youtu.be/JGDbUGp-4fI?si=dKjry3P_3_kEZimT">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/16F1LJcAxM-xXpFEu1kOuq1fUdXB9Azjd/view?usp=sharing">&nbsp;[slides]</a>         |
 | 11:00 - 11:30   | <span class="p-invited">Break</span>            |
 || *Chair: Henrik Wilming* |
-| 11:30 - 11:55   | Tulja Varun Kondra, **Ray Ganardi**, and Alexander Streltsov<br /><i>Coherence manipulation in asymmetry and thermodynamics</i><a href="https://youtu.be/TABXnkl7iLI?si=ykDwdGVlsziTDLYy">&nbsp;[recording]</a>           |
+| 11:30 - 11:55   | Tulja Varun Kondra, **Ray Ganardi**, and Alexander Streltsov<br /><i>Coherence manipulation in asymmetry and thermodynamics</i><a href="https://youtu.be/TABXnkl7iLI?si=ykDwdGVlsziTDLYy">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1Ur0YWP7WMauefdypaqPgUTuUi8vw1Mam/view?usp=sharing">&nbsp;[slides]</a>           |
 | 11:55 - 12:20   | **Naoto Shiraishi** and Ryuji Takagi<br /><i>Alchemy of quantum coherence: Arbitrary amplification in asymptotic and catalytic coherence manipulation</i><a href="https://youtu.be/pMVLvUaiN_0?si=diESBZIc8BHnKzoA">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1UIRdPA8eUsWoMD24qJ7emAisZryR5Yn9/view?usp=sharing">&nbsp;[slides]</a>             |
 | 12:20 - 12:45   | **Tomohiro Shitara** and Hiroyasu Tajima<br /><i>Resource theory of asymmetry for finite groups</i><a href="https://youtu.be/cGGkdC9MXi8?si=9a0PqvOLs-khAKyh">&nbsp;[recording]</a>  |
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
@@ -118,7 +118,7 @@ order: 2
 | 11:00 - 11:30  | <span class="p-invited">Break</span>    |
 || *Chair: Thomas Theurer* |
 | 11:30 - 11:55  | **Marcin Wieśniak**, Palash Pandya, Omer Sakarya, Bianka Wołoncewicz, Miro Consiglio, and Tony Apollaro<br /><i>Detecting entanglement by solving a quadratic equation</i><a href="https://youtu.be/A1RnKw8r1O8?si=M1Agty49FQLLn1Ca">&nbsp;[recording]</a>        |
-| 11:55 - 12:20  | **Ray Ganardi**, Tulja Varun Kondra, and Alexander Streltsov <br /><i>Catalytic and asymptotic equivalence for quantum entanglement</i><a href="https://youtu.be/nIVUf_VQT3M?si=k1Akd8txmMViUm8I">&nbsp;[recording]</a>     |
+| 11:55 - 12:20  | **Ray Ganardi**, Tulja Varun Kondra, and Alexander Streltsov <br /><i>Catalytic and asymptotic equivalence for quantum entanglement</i><a href="https://youtu.be/nIVUf_VQT3M?si=k1Akd8txmMViUm8I">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1Sy_HYspDbWZbNFBJ1JNa2gYt2HXJc07r/view?usp=sharing">&nbsp;[slides]</a>     |
 | 12:20 - 12:45  | **Youngrong Lim**, Minki Hhan, Hyukjoon Kwon <br /><i>Non-destructive Local Discrimination of Entangled Quantum States</i><a href="https://youtu.be/BD39pCB3Yzs?si=ZgmaEG38smsg4Jl6">&nbsp;[recording]</a>        |
 | 12:45 - 14:00  | <span class="p-invited">Lunch</span>        |
 || *Chair: Xiao Yuan* |
