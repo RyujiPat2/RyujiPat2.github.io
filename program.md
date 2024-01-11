@@ -55,7 +55,7 @@ order: 2
 | 12:45 - 12:55 | <span class="p-invited">Group photos</span>           |
 | 12:55 - 14:00 | <span class="p-invited">Lunch</span>           |
 || *Chair: Kamil Korzekwa* |
-| 14:00 - 14:35 |  <span class="p-contrib"><b>David Gosset</b><br /><i>Stabilizer rank simulators</i><a href="https://youtu.be/7Y5sdiI-LsU?si=8yTIe9GttUBujLpZ">&nbsp;[recording]</a></span>           |
+| 14:00 - 14:35 |  <span class="p-contrib"><b>David Gosset</b><br /><i>Stabilizer rank simulators</i><a href="https://youtu.be/7Y5sdiI-LsU?si=8yTIe9GttUBujLpZ">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1UZyXLifM6e5B8HMVolrq-9Nw7lRTIha0/view?usp=sharing">&nbsp;[slides]</a></span>           |
 | 14:35 - 15:00 | Nicole Yunger Halpern, Anthony Munson, Naga Teja Bhavia Kothakonda, Jonas Haferkamp, Jens Eisert, and **Philippe Faist**<br /><i>Resource theory of quantum complexity with applications to quantum thermodynamics</i><a href="https://youtu.be/uBWJH1Pdldg?si=EDQprWUN7AG5xwGt">&nbsp;[recording]</a>     |
 | 15:00 - 15:30 | <span class="p-invited">Break</span> |
 || *Chair: Xin Wang* |
