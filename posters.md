@@ -21,7 +21,7 @@ Poster sessions take place on Monday and Tuesday in the foyer just outside the B
 * **Diagrammatic Characterization of Gaussian and non-Gaussian Processes Based on Generalization of ZX-calculus** &mdash; Hironari Nagayoshi, Warit Asavanant, Ryuhoh Ide, Akira Furusawa
 * **Complexity of frustration: a new source of non-local non-stabilizerness** &mdash; J. Odavić, T. Haug, G. Torre, A. Hamma, F. Franchini, S. M. Giampaolo
 * **Universal Landauer-Like Inequality from the First Law of Thermodynamics** &mdash; Junjie Liu, Hanlin Nie
-* **Robustness measures for quantifying nonlocality** &mdash; Kyunghyun Baek, Junghee Ryu, Jinhyoung Lee
+* **Robustness measures for quantifying nonlocality** &mdash; Kyunghyun Baek, Junghee Ryu, Jinhyoung Lee<a href="https://drive.google.com/file/d/1tkeiThdcnWzOWRiHso8TRkPTioEeeIYu/view?usp=sharing">&nbsp;[poster]</a>
 * **Approaching optimal entangling collective measurements on quantum computing platforms** &mdash; Lorcan Conlon, Ping Koy Lam, Syed Assad
 * **Defining discrete Wigner functions from the Gottesman-Kitaev-Preskill code** &mdash; Lucky K. Antonopoulos, Nicolas C. Menicucci
 * **Causal classification of spatiotemporal quantum correlations** &mdash; Minjeong Song, Varun Narasimhachar, Bartosz Regula, Thomas J. Elliott, Mile Gu
