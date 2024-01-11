@@ -97,7 +97,7 @@ order: 2
 | 12:45 - 14:00   | <span class="p-invited">Lunch</span>             |
 || *Chair: Marco Tomamichel* |
 | 14:00 - 14:35   | <span class="p-contrib"><b> Jonathan Oppenheim</b><br/><i>Quantum Batteries (an apology)</i><a href="https://youtu.be/YozEXF9vZL8?si=Z91WMRu6XqlNmf6G">&nbsp;[recording]</a> </span>              |  
-| 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, and Valerio Scarani<br /><i>Observational entropy with general quantum priors</i> <a href="https://youtu.be/rKORj1ZLV60?si=y5Pp2WScsRj8LGWV">&nbsp;[recording]</a>            |
+| 14:35 - 15:00   | **Ge Bai**, Dominik Šafránek, Joseph Schindler, Francesco Buscemi, and Valerio Scarani<br /><i>Observational entropy with general quantum priors</i> <a href="https://youtu.be/rKORj1ZLV60?si=y5Pp2WScsRj8LGWV">&nbsp;[recording]</a><a href="https://docs.google.com/presentation/d/13sTl0oF9pvcgjR22ryMNrK_1ml2MYXGL/edit?usp=sharing&ouid=103245623541139670633&rtpof=true&sd=true">&nbsp;[slides]</a>            |
 | 15:00 - 15:30   | <span class="p-invited">Break</span> | 
 || *Chair: Naoto Shiraishi* |
 | 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, and **Frits Verhagen**<br /><i>Asymptotic and catalytic majorization</i> <a href="https://youtu.be/FNbOSP8L29M?si=Zmh8Tg30p6sQ8G6Y">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1uinzz0LgR8MbJnMcGxdzTz5wHwmWIwhm/view?usp=sharing">&nbsp;[slides]</a>         |
