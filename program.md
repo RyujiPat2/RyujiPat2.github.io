@@ -75,7 +75,7 @@ order: 2
 | 11:00 - 11:30  | <span class="p-invited">Break</span>       |
 || *Chair: Alexander Streltsov* |
 | 11:30 - 12:05  | <span class="p-contrib"><b>Xiao Yuan</b><br /><i>Virtual quantum resource distillation</i><a href="https://youtu.be/9JK8YIa1Fgs?si=EQzkQcyzCdROkkqH">&nbsp;[recording]</a></span>        |
-| 12:05 - 12:30  | **Benjamin Jones**, Paul Skrzypczyk, and Noah Linden <br /><i>Hadamard gate cannot be replaced by a resource state in universal quantum computation</i><a href="https://youtu.be/gIj-9g7grjQ?si=8GdOErw6KTx2FjLh">&nbsp;[recording]</a>     |
+| 12:05 - 12:30  | **Benjamin Jones**, Paul Skrzypczyk, and Noah Linden <br /><i>Hadamard gate cannot be replaced by a resource state in universal quantum computation</i><a href="https://youtu.be/gIj-9g7grjQ?si=8GdOErw6KTx2FjLh">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1K703tvKj-5EliS-ra56dTN4T4GEpTzsH/view?usp=sharing">&nbsp;[slides]</a>     |
 | 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>Hidden costs of coherence distillation</i> <a href="https://youtu.be/16-eglwsxX8?si=w_JC0fSavPIWmU6I">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1_DNNCRiO5GJ0kDXwZ2GVY9ACQ2ZLRC4a/view?usp=sharing">&nbsp;[slides]</a>       |
 | 12:55 - 14:00  | <span class="p-invited">Lunch</span>      |
 | 14:00 - 18:00  | <span class="p-invited">Discussions, free time</span>     |
@@ -102,7 +102,7 @@ order: 2
 || *Chair: Naoto Shiraishi* |
 | 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, and **Frits Verhagen**<br /><i>Asymptotic and catalytic majorization</i> <a href="https://youtu.be/FNbOSP8L29M?si=Zmh8Tg30p6sQ8G6Y">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1uinzz0LgR8MbJnMcGxdzTz5wHwmWIwhm/view?usp=sharing">&nbsp;[slides]</a>         |
 | 15:55 - 16:20   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i> <a href="https://youtu.be/w7axE50mrM4?si=P_Nu76Ne-MQSJUqi">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1rem3ekqDtaoY7vie_-jODN9Iy4BQhoFs/view?usp=sharing">&nbsp;[slides]</a>         |
-| 16:20 - 16:45   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i> <a href="https://youtu.be/cWRhivAdSjk?si=q_tzIyBTKY-lXXLY">&nbsp;[recording]</a>              |
+| 16:20 - 16:45   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i> <a href="https://youtu.be/cWRhivAdSjk?si=q_tzIyBTKY-lXXLY">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1dCj0oyg4ZE4EOg4Zir3G9V09Gmkv3m0R/view?usp=sharing">&nbsp;[slides]</a>              |
 | 16:45 - 17:15   | <span class="p-invited"><b>Open problem session</b><a href="https://youtu.be/itnnN02LqIQ?si=dlbyQQuLtJ0mam62">&nbsp;[recording]</a></span>        |
 | 17:15 - 18:30   | <span class="p-invited">Discussions / Walking tour (meet in front of the Ballroom at 17:35)</span> | 
 
