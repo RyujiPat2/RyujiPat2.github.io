@@ -71,10 +71,10 @@ order: 2
 |--- |--- |
 || *Chair: Seok Hyung Lie* |
 | 10:00 - 10:35   | <span class="p-contrib"><b>Giulio Chiribella</b><br/><i>The nonequilibrum cost of accurate information processing</i><a href="https://youtu.be/OrR-Ze6f8vQ?si=YWSXAk608cPoiWqG">&nbsp;[recording]</a></span>        |
-| 10:35 - 11:00  | **Jake Xuereb**, Florian Meier, Mark Mitchison, Paul Erker, Tiago Debarba, and Marcus Huber<br /><i>Quantum Information Processing with Finite Thermodynamic Resources</i><a href="https://youtu.be/Fy0uAN-0sEc?si=kiCwVLJWeG_EpwTc">&nbsp;[recording]</a> |
+| 10:35 - 11:00  | **Jake Xuereb**, Florian Meier, Mark Mitchison, Paul Erker, Tiago Debarba, and Marcus Huber<br /><i>Quantum Information Processing with Finite Thermodynamic Resources</i><a href="https://youtu.be/Fy0uAN-0sEc?si=kiCwVLJWeG_EpwTc">&nbsp;[recording]</a><a href="https://docs.google.com/presentation/d/1IifdDZCdZC7uj8gYQZk7MjtpOfA2n-je/edit?usp=sharing&ouid=103245623541139670633&rtpof=true&sd=true">&nbsp;[slides]</a> |
 | 11:00 - 11:30  | <span class="p-invited">Break</span>       |
 || *Chair: Alexander Streltsov* |
-| 11:30 - 12:05  | <span class="p-contrib"><b>Xiao Yuan</b><br /><i>Virtual quantum resource distillation</i><a href="https://youtu.be/9JK8YIa1Fgs?si=EQzkQcyzCdROkkqH">&nbsp;[recording]</a></span>        |
+| 11:30 - 12:05  | <span class="p-contrib"><b>Xiao Yuan</b><br /><i>Virtual quantum resource distillation</i><a href="https://youtu.be/9JK8YIa1Fgs?si=EQzkQcyzCdROkkqH">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1yVOSTvT5OUrXMs0v3ysA-qvi1We3F9ei/view?usp=sharing">&nbsp;[slides]</a></span>        |
 | 12:05 - 12:30  | **Benjamin Jones**, Paul Skrzypczyk, and Noah Linden <br /><i>Hadamard gate cannot be replaced by a resource state in universal quantum computation</i><a href="https://youtu.be/gIj-9g7grjQ?si=8GdOErw6KTx2FjLh">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1K703tvKj-5EliS-ra56dTN4T4GEpTzsH/view?usp=sharing">&nbsp;[slides]</a>     |
 | 12:30 - 12:55  | **Varun Narasimhachar** <br /><i>Hidden costs of coherence distillation</i> <a href="https://youtu.be/16-eglwsxX8?si=w_JC0fSavPIWmU6I">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1_DNNCRiO5GJ0kDXwZ2GVY9ACQ2ZLRC4a/view?usp=sharing">&nbsp;[slides]</a>       |
 | 12:55 - 14:00  | <span class="p-invited">Lunch</span>      |
