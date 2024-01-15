@@ -87,7 +87,7 @@ order: 2
 | Time | Description |
 |--- |--- |
 || *Chair: Philippe Faist* |
-| 10:00 - 10:35   | <span class="p-contrib"><b>Kamil Korzekwa</b><br/><i>Finite size effects in quantum thermodynamics</i><a href="https://youtu.be/IPf2oTZSfog?si=X8c9q8pddvmSdJCC">&nbsp;[recording]</a></span>        |
+| 10:00 - 10:35   | <span class="p-contrib"><b>Kamil Korzekwa</b><br/><i>Finite size effects in quantum thermodynamics</i><a href="https://youtu.be/IPf2oTZSfog?si=X8c9q8pddvmSdJCC">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1PuIdvEWdWWkLZ-EEc3rlkhjPQrNm1GWQ/view?usp=sharing">&nbsp;[slides]</a></span>        |
 | 10:35 - 11:00  | **Jeongrak Son** and Nelly H. Y. Ng<br /><i>A hierarchy of thermal processes collapses under catalysis</i> <a href="https://youtu.be/JGDbUGp-4fI?si=dKjry3P_3_kEZimT">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/16F1LJcAxM-xXpFEu1kOuq1fUdXB9Azjd/view?usp=sharing">&nbsp;[slides]</a>         |
 | 11:00 - 11:30   | <span class="p-invited">Break</span>            |
 || *Chair: Henrik Wilming* |
