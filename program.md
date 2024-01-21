@@ -103,7 +103,7 @@ order: 2
 | 15:30 - 15:55   | Muhammad Usman Farooq, Tobias Fritz, Erkka Haapasalo, Marco Tomamichel, and **Frits Verhagen**<br /><i>Asymptotic and catalytic majorization</i> <a href="https://youtu.be/FNbOSP8L29M?si=Zmh8Tg30p6sQ8G6Y">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1uinzz0LgR8MbJnMcGxdzTz5wHwmWIwhm/view?usp=sharing">&nbsp;[slides]</a>         |
 | 15:55 - 16:20   | **Thomas Theurer**, Elia Zanoni, Carlo Maria Scandolo, Gilad Gour<br /><i>Thermodynamic state convertibility is determined by qubit cooling and heating</i> <a href="https://youtu.be/w7axE50mrM4?si=P_Nu76Ne-MQSJUqi">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1rem3ekqDtaoY7vie_-jODN9Iy4BQhoFs/view?usp=sharing">&nbsp;[slides]</a>         |
 | 16:20 - 16:45   | Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, **Felix C. Binder**, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber<br /><i>Resources for cooling and erasure</i> <a href="https://youtu.be/cWRhivAdSjk?si=q_tzIyBTKY-lXXLY">&nbsp;[recording]</a><a href="https://drive.google.com/file/d/1dCj0oyg4ZE4EOg4Zir3G9V09Gmkv3m0R/view?usp=sharing">&nbsp;[slides]</a>              |
-| 16:45 - 17:15   | <span class="p-invited"><b>Open problem session</b><a href="https://youtu.be/itnnN02LqIQ?si=dlbyQQuLtJ0mam62">&nbsp;[recording]</a></span>        |
+| 16:45 - 17:15   | <span class="p-invited"><b>Open problem session</b></span>        |
 | 17:15 - 18:30   | <span class="p-invited">Discussions / Walking tour (meet in front of the Ballroom at 17:35)</span> | 
 
 
